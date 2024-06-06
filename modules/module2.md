@@ -261,7 +261,6 @@ Pour mettre à l'échelle plus rapidement, vous pouvez utiliser la mise à l'éc
 
 ---
 
-
 ## Exemple: Amazon EC2 Auto Scaling
 
 - nombre minimal d'instances Amazon EC2 à un.
@@ -317,7 +316,23 @@ Applications monolithiques  |  Applications microservices
 
 ---
 
-QUIZ
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel service AWS est le meilleur choix pour publier des messages aux abonnés ?
+
+- Amazon Simple Queue Service (Amazon SQS)
+- Amazon EC2 Auto Scaling
+- Amazon Simple Notification Service (Amazon SNS)
+- Elastic Load Balancing
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel service AWS est le meilleur choix pour publier des messages aux abonnés ?
+
+- Amazon Simple Queue Service (Amazon SQS)
+- Amazon EC2 Auto Scaling
+- Amazon Simple Notification Service (Amazon SNS)<!-- .element: style="color:#0de07d;" -->
+- Elastic Load Balancing
 
 ---
 
@@ -367,5 +382,102 @@ QUIZ
 
 ---
 
-Quiz
+<!-- .slide: data-auto-animate -->
+## Quiz: Vous souhaitez utiliser une instance Amazon EC2 pour une charge de travail de traitement par lots. Quel serait le meilleur type d'instance Amazon EC2 à utiliser ?
 
+- À usage général
+- Optimisée en mémoire
+- De calcul optimisée
+- Avec stockage optimisé
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Vous souhaitez utiliser une instance Amazon EC2 pour une charge de travail de traitement par lots. Quel serait le meilleur type d'instance Amazon EC2 à utiliser ?
+
+- À usage général
+- Optimisée en mémoire
+- De calcul optimisée <!-- .element: style="color:#0de07d;" -->
+- Avec stockage optimisé
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelles sont les options de durée de contrat pour les instances réservées Amazon EC2 ? (Sélectionnez DEUX propositions.)
+
+- 1 an 
+- 2 ans
+- 3 ans
+- 4 ans
+- 5 ans
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelles sont les options de durée de contrat pour les instances réservées Amazon EC2 ? (Sélectionnez DEUX propositions.)
+
+- 1 an <!-- .element: style="color:#0de07d;" -->
+- 2 ans
+- 3 ans <!-- .element: style="color:#0de07d;" -->
+- 4 ans
+- 5 ans
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Vous avez une charge de travail qui durera au total 6 mois et peut résister aux interruptions. Quelle serait l'option d'achat Amazon EC2 la plus rentable ?
+
+- Instance réservée
+- Instance Spot
+- Instance dédiée
+- Instance à la demande
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Vous avez une charge de travail qui durera au total 6 mois et peut résister aux interruptions. Quelle serait l'option d'achat Amazon EC2 la plus rentable ?
+
+- Instance réservée
+- Instance Spot <!-- .element: style="color:#0de07d;" -->
+- Instance dédiée
+- Instance à la demande
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel processus est un exemple d'Elastic Load Balancing ?
+
+- Veiller à ce qu'aucune instance Amazon EC2 n'ait à supporter seule la charge de travail complète
+- Suppression des instances Amazon EC2 inutiles lorsque la demande est faible
+- Ajout d'une deuxième instance Amazon EC2 lors de la vente populaire d'une boutique en ligne
+- Ajustement automatique du nombre d'instances Amazon EC2 pour répondre à la demande
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel processus est un exemple d'Elastic Load Balancing ?
+
+- Veiller à ce qu'aucune instance Amazon EC2 n'ait à supporter seule la charge de travail complète <!-- .element: style="color:#0de07d;" -->
+- Suppression des instances Amazon EC2 inutiles lorsque la demande est faible
+- Ajout d'une deuxième instance Amazon EC2 lors de la vente populaire d'une boutique en ligne
+- Ajustement automatique du nombre d'instances Amazon EC2 pour répondre à la demande
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Vous souhaitez déployer et gérer des applications conteneurisées. Quel service devriez-vous utiliser ?
+
+- AWS Lambda
+- Amazon Simple Notification Service (Amazon SNS)
+- Amazon Simple Queue Service (Amazon SQS)
+- Amazon Elastic Kubernetes Service (Amazon EKS)
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Vous souhaitez déployer et gérer des applications conteneurisées. Quel service devriez-vous utiliser ?
+
+- AWS Lambda
+- Amazon Simple Notification Service (Amazon SNS)
+- Amazon Simple Queue Service (Amazon SQS)
+- Amazon Elastic Kubernetes Service (Amazon EKS) <!-- .element: style="color:#0de07d;" -->
