@@ -236,3 +236,136 @@ Les hôtes dédiés sont des serveurs physiques avec des capacités d'instance A
 
 Vous pouvez utiliser vos licences logicielles par socket, par cœur ou par machine virtuelle existantes pour vous aider à maintenir la conformité des licences. Vous pouvez acheter des réservations d'hôtes dédiés à la demande et d'hôtes dédiés. De toutes les options Amazon EC2 couvertes, les hôtes dédiés sont les plus chers.
 
+---
+
+## Mise à l'échelle Amazon EC2
+
+- La capacité de mise à l'échelle implique de commencer uniquement avec les ressources dont vous avez besoin et de concevoir votre architecture pour répondre automatiquement à l'évolution de la demande en mettant à l'échelle. 
+- Par conséquent, vous ne payez que les ressources que vous utilisez. 
+- Vous n'avez pas à vous soucier d'un manque de capacité de calcul pour répondre aux besoins de vos clients.
+
+Service AWS :  **Amazon EC2 Auto Scaling**
+
+---
+
+## Amazon EC2 Auto Scaling
+
+- Permet d'ajouter ou de supprimer automatiquement des instances Amazon EC2 en réponse à l'évolution de la demande des applications. 
+- En mettant automatiquement à l'échelle vos instances en fonction des besoins, vous pouvez conserver une meilleure disponibilité des applications.
+
+- Deux approches : 
+    * La mise à l'échelle dynamique répond à l'évolution de la demande. 
+    * La mise à l'échelle prédictive planifie automatiquement le bon nombre d'instances Amazon EC2 en fonction de la demande prévue.
+
+Pour mettre à l'échelle plus rapidement, vous pouvez utiliser la mise à l'échelle dynamique et la mise à l'échelle prédictive ensemble.
+
+---
+
+
+## Exemple: Amazon EC2 Auto Scaling
+
+- nombre minimal d'instances Amazon EC2 à un.
+- capacité souhaitée à deux instances Amazon EC2, même si votre application a besoin d'au moins une seule instance Amazon EC2 pour s'exécuter.
+- capacité maximale :  mise à l'échelle ascendante en réponse à une demande accrue, mais uniquement jusqu'à un maximum de quatre instances Amazon EC2.
+
+![](../images/ec2autoscaling.png) <!-- .element height="25%" width="25%" -->
+
+---
+
+## Direction du trafic avec Elastic Load Balancing
+
+- Distribue automatiquement le trafic d'application entrant sur plusieurs ressources, telles que les instances Amazon EC2. 
+- Un équilibreur de charge agit comme un point de contact unique pour tout le trafic web entrant de votre groupe Auto Scaling. 
+- Si on ajoute ou on supprime des instances Amazon EC2 en réponse à la quantité de trafic entrant, ces demandes acheminent d'abord vers le load balancer. Ensuite, les demandes se répartissent sur plusieurs ressources qui les géreront. 
+- performances et une disponibilité élevées. 
+
+---
+
+## Exemple : Elastic Load Balancing
+
+Période de faible demande  |  Période de forte demande
+:-------------------------:|:-------------------------:
+![](../images/elb1.png)<!-- .element height="80%" width="80%" -->  |  ![](../images/elb2.png)<!-- .element height="80%" width="80%" -->
+
+---
+
+## Messagerie et mise en file d'attente
+
+Applications monolithiques  |  Applications microservices
+:-------------------------:|:-------------------------:
+![](../images/monolithe.png)<!-- .element height="50%" width="50%" -->  |  ![](../images/microservices.png)<!-- .element height="50%" width="50%" -->
+
+
+- Pour maintenir la disponibilité de l'application en cas de défaillance d'un seul composant, vous pouvez concevoir votre application à l'aide d'une approche de microservices.
+- Deux services facilitent l'intégration des applications : Amazon Simple Notification Service (Amazon SNS) et Amazon Simple Queue Service (Amazon SQS).
+
+---
+
+## Amazon Simple Notification Service (Amazon SNS)
+
+- Service de publication/d'abonnement. 
+- Un éditeur publie des messages à l'intention des abonnés. 
+- Dans Amazon SNS, les abonnés peuvent être des serveurs web, des adresses e-mail, des fonctions AWS Lambda ou plusieurs autres options. 
+
+---
+
+## Amazon Simple Queue Service (Amazon SQS)
+
+- Service de mise en file d'attente de messages
+- Envoyer, stocker et recevoir des messages entre les composants logiciels, sans perdre de messages ni avoir besoin que d'autres services soient disponibles.
+- Dans Amazon SQS, une application envoie des messages dans une file d'attente. Un utilisateur ou un service extrait un message de la file d'attente, le traite, puis le supprime de la file d'attente.
+
+---
+
+QUIZ
+
+---
+
+## Services de calcul supplémentaires
+
+- AWS Lambda pour le calcul serverless  
+- Amazon Elastic Container Service (Amazon ECS) pour les conteneurs 
+- Amazon Elastic Kubernetes Service (Amazon EKS) pour l'orchestrateur des conteneurs
+- AWS Fargate : moteur de calcul serverless pour les conteneurs. 
+
+---
+
+## AWS Lambda
+
+- Service qui permet d'exécuter du code sans devoir mettre en service ou gérer des serveurs (serverless) 
+- Payez que le temps de calcul que vous consommez. Les frais s'appliquent uniquement lorsque votre code est en cours d'exécution. 
+- Par exemple, une simple fonction Lambda peut impliquer le redimensionnement automatique des images chargées dans le Cloud AWS. Dans ce cas, la fonction se déclenche lors du chargement d'une nouvelle image. 
+
+---
+
+## Fonctionnement de AWS Lambda
+
+![](../images/lambda.png)
+
+---
+
+## Amazon Elastic Container Service (Amazon ECS)
+
+- Système de gestion de conteneurs avec d'importantes possibilités de mise à l'échelle et à hautes performances
+- Prend en charge les conteneurs Docker (Community Edition en open source et Docker Enterprise Edition).
+- Avec Amazon ECS, vous pouvez utiliser les appels d'API pour lancer et arrêter des applications compatibles avec Docker.
+
+---
+
+## Amazon Elastic Kubernetes Service (Amazon EKS)
+
+- Service entièrement géré que vous pouvez utiliser pour exécuter Kubernetes sur AWS. 
+- Permet de déployer et de gérer des applications conteneurisées à grande échelle.  
+
+---
+
+## AWS Fargate
+
+- Moteur de calcul serverless pour les conteneurs. Il fonctionne avec Amazon ECS et Amazon EKS. 
+- Pas besoin de mettre en service ou de gérer des serveurs. AWS Fargate gère votre infrastructure de serveurs à votre place. 
+- Vous pouvez vous concentrer davantage sur l'innovation et le développement de vos applications, et vous ne payez que les ressources nécessaires à l'exécution de vos conteneurs.
+
+---
+
+Quiz
+
