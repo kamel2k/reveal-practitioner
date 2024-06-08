@@ -247,4 +247,103 @@ Les clients disposant d'une formule de Support Business ont accès à des foncti
 
 ## AWS Marketplace
 
+- Catalogue numérique qui comprend des milliers de listes de logiciels provenant de fournisseurs indépendants de logiciels. 
+- Utiliser AWS Marketplace pour trouver, tester et acheter des logiciels qui s'exécutent sur AWS. 
+- Explorer les solutions logicielles par secteur d'activité et par cas d'utilisation. Ex: Secteur Santé
+- Deploiement en One-Click
+  
+---
+
+![](../images/marketplace.png)<!-- .element height="80%" width="80%" -->
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz : Quelle action pouvez-vous effectuer avec la facturation consolidée ?
+- Vérifier les coûts que votre utilisation prévisionnelle d'AWS entraînera d'ici la fin du mois.
+- Créer une estimation du coût de vos cas d'utilisation sur AWS.
+- Combiner l'utilisation des comptes pour bénéficier de remises de tarification sur volume.
+- Visualiser et gérer vos coûts et votre utilisation AWS au fil du temps.
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz : Quelle action pouvez-vous effectuer avec la facturation consolidée ?
+- Vérifier les coûts que votre utilisation prévisionnelle d'AWS entraînera d'ici la fin du mois.
+- Créer une estimation du coût de vos cas d'utilisation sur AWS.
+- Combiner l'utilisation des comptes pour bénéficier de remises de tarification sur volume. <!-- .element: style="color:#0de07d;" -->
+- Visualiser et gérer vos coûts et votre utilisation AWS au fil du temps.
+  
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz : Quel outil de tarification est utilisé pour visualiser, comprendre et gérer vos coûts et votre utilisation AWS au fil du temps ?
+- Calculateur de prix AWS
+- AWS Budgets
+- AWS Cost Explorer
+- Offre gratuite d'AWS
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz : Quel outil de tarification est utilisé pour visualiser, comprendre et gérer vos coûts et votre utilisation AWS au fil du temps ?
+- Calculateur de prix AWS
+- AWS Budgets
+- AWS Cost Explorer <!-- .element: style="color:#0de07d;" -->
+- Offre gratuite d'AWS
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz : Quel outil de tarification vous permet de recevoir des alertes lorsque l'utilisation de votre service dépasse un seuil que vous avez défini ?
+- Tableau de bord de facturation dans la Console de gestion AWS
+- AWS Budgets
+- Offre gratuite d'AWS
+- AWS Cost Explorer
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz : Quel outil de tarification vous permet de recevoir des alertes lorsque l'utilisation de votre service dépasse un seuil que vous avez défini ?
+- Tableau de bord de facturation dans la Console de gestion AWS
+- AWS Budgets <!-- .element: style="color:#0de07d;" -->
+- Offre gratuite d'AWS
+- AWS Cost Explorer
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz : Votre entreprise souhaite bénéficier du support d'un Technical Account Manager (TAM) d'AWS. Quelle formule de support devriez-vous choisir ?
+- Développeur
+- Enterprise
+- Basique
+- Professionnel
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz : Votre entreprise souhaite bénéficier du support d'un Technical Account Manager (TAM) d'AWS. Quelle formule de support devriez-vous choisir ?
+- Développeur
+- Enterprise <!-- .element: style="color:#0de07d;" -->
+- Basique
+- Professionnel
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz : Quel service ou quelle ressource permet de trouver des logiciels tiers qui s'exécutent sur AWS ?
+- AWS Marketplace
+- Offre gratuite d'AWS
+- AWS Support
+- Tableau de bord de facturation dans la Console de gestion AWS
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz : Quel service ou quelle ressource permet de trouver des logiciels tiers qui s'exécutent sur AWS ?
+- AWS Marketplace <!-- .element: style="color:#0de07d;" -->
+- Offre gratuite d'AWS
+- AWS Support
+- Tableau de bord de facturation dans la Console de gestion AWS
+
 
