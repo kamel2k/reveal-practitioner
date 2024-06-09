@@ -206,7 +206,7 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 - AWS Direct Connect
 - Passerelle de réseau privé virtuel
 
---- 
+---
 
 <!-- .slide: data-auto-animate -->
 #### Quiz: Quel composant peut être utilisé pour établir une connexion privée dédiée entre le centre de données de votre entreprise et AWS ? <!-- .element: style="color:#fd9731;" -->

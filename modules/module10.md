@@ -139,6 +139,7 @@ Six pilliers
 
 ---
 
+<!-- .slide: data-auto-animate -->
 #### Quiz: Quels sont les avantages du cloud computing ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Gagner en vitesse et en agilité
@@ -149,6 +150,7 @@ Six pilliers
 
 ---
 
+<!-- .slide: data-auto-animate -->
 #### Quiz: Quels sont les avantages du cloud computing ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Gagner en vitesse et en agilité <!-- .element: style="color:#0de07d;" -->

@@ -92,7 +92,7 @@ En informatique, un accélérateur matériel est un composant qui peut accélér
 
 - Elles sont conçues pour les charges de travail qui nécessitent un accès élevé en lecture et en écriture séquentielle à de grands jeux de données sur le stockage local. 
 - Les systèmes de fichiers distribués
-- les applications d'entreposage de données et les systèmes de traitement transactionnel en ligne (OLTP) à haute fréquence
+- les applications d'entreposage de données et les systèmes de traitement transactionnel en ligne à haute fréquence
 
 En calcul, les opérations d'entrée/sortie par seconde (IOPS) sont une métrique qui indique les performances d'un périphérique de stockage. Elle indique le nombre d'opérations d'entrée ou de sortie différentes qu'un périphérique peut effectuer en une seconde.
 
@@ -322,7 +322,7 @@ Pour mettre à l'échelle plus rapidement, vous pouvez utiliser la mise à l'éc
 
 ## Exemple : Elastic Load Balancing
 
-Période de faible demande  |  Période de forte demande
+Période de faible demande  <!-- .element: style="font-size:50%; color:#FFFFFF" --> |  Période de forte demande <!-- .element: style="font-size:50%; color:#FFFFFF" -->
 :-------------------------:|:-------------------------:
 ![](../images/elb1.png)<!-- .element height="80%" width="80%" -->  |  ![](../images/elb2.png)<!-- .element height="80%" width="80%" -->
 
@@ -330,7 +330,7 @@ Période de faible demande  |  Période de forte demande
 
 ## Messagerie et mise en file d'attente
 
-Applications monolithiques  |  Applications microservices
+Applications monolithiques <!-- .element: style="font-size:50%; color:#FFFFFF" --> |  Applications microservices <!-- .element: style="font-size:50%; color:#FFFFFF" -->
 :-------------------------:|:-------------------------:
 ![](../images/monolithe.png)<!-- .element height="50%" width="50%" -->  |  ![](../images/microservices.png)<!-- .element height="50%" width="50%" -->
 

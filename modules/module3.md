@@ -87,7 +87,7 @@ Un emplacement périphérique est un site qu'Amazon CloudFront utilise afin de s
 
 - Service qui permet d'étendre les services et l'infrastructure AWS à vos centres de données, espaces colocation, ou sites locaux.
 - Il offre une expérience AWS locale et intégrée, permettant de faire tourner des charges de travail sensibles à la latence ou nécessitant une résidence locale des données.
-- Mini région AWS, gérée par AWS dans un baticment de l'entreprise du client
+- Mini région AWS, gérée par AWS dans un batiment de l'entreprise du client
 
 ---
 

@@ -184,6 +184,7 @@ exemple : Groupe développeurs
 - Des rôles IAM
 - Une unité organisationnelle (OU)  <!-- .element: style="color:#0de07d;" -->
 
+---
 
 ## Conformité (Compliance) avec AWS Artifact
 
