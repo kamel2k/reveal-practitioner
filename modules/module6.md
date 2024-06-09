@@ -29,7 +29,7 @@
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quelles sont les tâches qui incombent aux clients ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles sont les tâches qui incombent aux clients ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Maintien de l'infrastructure réseau
 - Application de correctifs logiciels sur les instances Amazon EC2
@@ -40,7 +40,7 @@
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quelles sont les tâches qui incombent aux clients ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles sont les tâches qui incombent aux clients ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Maintien de l'infrastructure réseau
 - Application de correctifs logiciels sur les instances Amazon EC2 <!-- .element: style="color:#0de07d;" -->
@@ -165,7 +165,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Vous configurez des stratégies de contrôle des services (SCP) dans AWS Organizations. À quelles identités et ressources les SCP peuvent-elles être appliquées ? (Sélectionnez DEUX propositions.)
+#### Quiz: Vous configurez des stratégies de contrôle des services (SCP) dans AWS Organizations. À quelles identités et ressources les SCP peuvent-elles être appliquées ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Des utilisateurs IAM
 - Des groupes IAM
@@ -176,7 +176,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Vous configurez des stratégies de contrôle des services (SCP) dans AWS Organizations. À quelles identités et ressources les SCP peuvent-elles être appliquées ? (Sélectionnez DEUX propositions.)
+#### Quiz: Vous configurez des stratégies de contrôle des services (SCP) dans AWS Organizations. À quelles identités et ressources les SCP peuvent-elles être appliquées ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Des utilisateurs IAM
 - Des groupes IAM
@@ -213,7 +213,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles tâches pouvez-vous effectuer dans AWS Artifact ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles tâches pouvez-vous effectuer dans AWS Artifact ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Accéder aux rapports de conformité AWS à la demande.
 - Consolider et gérer plusieurs comptes AWS au sein d'un emplacement central.
@@ -224,7 +224,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles tâches pouvez-vous effectuer dans AWS Artifact ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles tâches pouvez-vous effectuer dans AWS Artifact ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Accéder aux rapports de conformité AWS à la demande. <!-- .element: style="color:#0de07d;" -->
 - Consolider et gérer plusieurs comptes AWS au sein d'un emplacement central.
@@ -326,7 +326,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux une politique IAM ?
+#### Quiz: Quelle affirmation décrit le mieux une politique IAM ? <!-- .element: style="color:#fd9731;" -->
 
 - Un processus d'authentification qui fournit une couche supplémentaire de protection pour votre compte AWS
 - Un document qui accorde ou refuse des autorisations aux services et ressources AWS 
@@ -336,7 +336,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux une politique IAM ?
+#### Quiz: Quelle affirmation décrit le mieux une politique IAM ? <!-- .element: style="color:#fd9731;" -->
 
 - Un processus d'authentification qui fournit une couche supplémentaire de protection pour votre compte AWS
 - Un document qui accorde ou refuse des autorisations aux services et ressources AWS <!-- .element: style="color:#0de07d;" -->
@@ -346,7 +346,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Un employé a besoin d'un accès temporaire pour créer plusieurs compartiments Amazon S3. Quelle option serait le meilleur choix pour cette tâche ?
+#### Quiz: Un employé a besoin d'un accès temporaire pour créer plusieurs compartiments Amazon S3. Quelle option serait le meilleur choix pour cette tâche ? <!-- .element: style="color:#fd9731;" -->
 
 - Utilisateur racine d'un compte AWS
 - Groupe IAM
@@ -356,7 +356,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Un employé a besoin d'un accès temporaire pour créer plusieurs compartiments Amazon S3. Quelle option serait le meilleur choix pour cette tâche ?
+#### Quiz: Un employé a besoin d'un accès temporaire pour créer plusieurs compartiments Amazon S3. Quelle option serait le meilleur choix pour cette tâche ? <!-- .element: style="color:#fd9731;" -->
 
 - Utilisateur racine d'un compte AWS
 - Groupe IAM
@@ -366,7 +366,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux le principe du moindre privilège ?
+#### Quiz: Quelle affirmation décrit le mieux le principe du moindre privilège ? <!-- .element: style="color:#fd9731;" -->
 
 - Ajouter un utilisateur IAM dans au moins un groupe IAM
 - Vérifier les autorisations d'un paquet par rapport à une liste de contrôle d'accès
@@ -376,7 +376,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux le principe du moindre privilège ?
+#### Quiz: Quelle affirmation décrit le mieux le principe du moindre privilège ? <!-- .element: style="color:#fd9731;" -->
 
 - Ajouter un utilisateur IAM dans au moins un groupe IAM
 - Vérifier les autorisations d'un paquet par rapport à une liste de contrôle d'accès
@@ -386,7 +386,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel service aide à protéger vos applications contre les attaques par déni de service distribué (DDoS) ?
+#### Quiz: Quel service aide à protéger vos applications contre les attaques par déni de service distribué (DDoS) ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon GuardDuty
 - Amazon Inspector
@@ -396,7 +396,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel service aide à protéger vos applications contre les attaques par déni de service distribué (DDoS) ?
+#### Quiz: Quel service aide à protéger vos applications contre les attaques par déni de service distribué (DDoS) ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon GuardDuty
 - Amazon Inspector
@@ -406,7 +406,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle tâche AWS Key Management Service (AWS KMS) peut-il effectuer ?
+#### Quiz: Quelle tâche AWS Key Management Service (AWS KMS) peut-il effectuer ? <!-- .element: style="color:#fd9731;" -->
 
 - Configurer l'authenfication multifactorielle (MFA).
 - Mettre à jour le mot de passe de l'utilisateur racine du compte AWS.
@@ -416,7 +416,7 @@ exemple : Groupe développeurs
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle tâche AWS Key Management Service (AWS KMS) peut-il effectuer ?
+#### Quiz: Quelle tâche AWS Key Management Service (AWS KMS) peut-il effectuer ? <!-- .element: style="color:#fd9731;" -->
 
 - Configurer l'authenfication multifactorielle (MFA).
 - Mettre à jour le mot de passe de l'utilisateur racine du compte AWS.

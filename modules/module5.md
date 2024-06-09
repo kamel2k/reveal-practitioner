@@ -55,7 +55,7 @@
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Lesquelles des affirmations suivantes sont caractéristiques du service Amazon EBS ? (Sélectionnez DEUX propositions.)
+#### Quiz: Lesquelles des affirmations suivantes sont caractéristiques du service Amazon EBS ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Idéal pour les données qui doivent être conservées
 - Idéal pour les données temporaires qui ne doivent pas être conservées à long terme
@@ -66,7 +66,7 @@
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Lesquelles des affirmations suivantes sont caractéristiques du service Amazon EBS ? (Sélectionnez DEUX propositions.)
+#### Quiz: Lesquelles des affirmations suivantes sont caractéristiques du service Amazon EBS ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Idéal pour les données qui doivent être conservées <!-- .element: style="color:#0de07d;" -->
 - Idéal pour les données temporaires qui ne doivent pas être conservées à long terme
@@ -179,11 +179,21 @@ S3 Deep Archive prend en charge la rétention à long terme et la préservation 
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Vous souhaitez stocker des données qui sont rarement consultées, mais qui doivent être immédiatement disponibles en cas de besoin. Quelle classe de stockage Amazon S3 devriez-vous utiliser ?
+#### Quiz: Vous souhaitez stocker des données qui sont rarement consultées, mais qui doivent être immédiatement disponibles en cas de besoin. Quelle classe de stockage Amazon S3 devriez-vous utiliser ? <!-- .element: style="color:#fd9731;" -->
 
 - S3 Intelligent-Tiering
 - S3 Glacier Deep Archive
 - S3 standard – Accès peu fréquent
+- S3 Glacier Flexible Retrieval
+
+---
+
+<!-- .slide: data-auto-animate -->
+#### Quiz: Vous souhaitez stocker des données qui sont rarement consultées, mais qui doivent être immédiatement disponibles en cas de besoin. Quelle classe de stockage Amazon S3 devriez-vous utiliser ? <!-- .element: style="color:#fd9731;" -->
+
+- S3 Intelligent-Tiering
+- S3 Glacier Deep Archive
+- S3 standard – Accès peu fréquent <!-- .element: style="color:#0de07d;" -->
 - S3 Glacier Flexible Retrieval
 
 ---
@@ -194,16 +204,6 @@ S3 Deep Archive prend en charge la rétention à long terme et la préservation 
 - Facilite la récupération, le stockage et l'accès aux données sur AWS Outposts
 
 Amazon S3 Outposts fournit un stockage d'objets à votre environnement AWS Outposts sur site. Amazon S3 Outposts est conçu pour stocker des données durablement et de manière redondante sur plusieurs appareils et serveurs sur vos Outposts. Il convient particulièrement aux charges de travail avec des exigences en matière de résidence des données locales qui doivent satisfaire les besoins de performances en gardant les données proches des applications sur site.
-
----
-
-<!-- .slide: data-auto-animate -->
-## Quiz: Vous souhaitez stocker des données qui sont rarement consultées, mais qui doivent être immédiatement disponibles en cas de besoin. Quelle classe de stockage Amazon S3 devriez-vous utiliser ?
-
-- S3 Intelligent-Tiering
-- S3 Glacier Deep Archive
-- S3 standard – Accès peu fréquent <!-- .element: style="color:#0de07d;" -->
-- S3 Glacier Flexible Retrieval
 
 ---
 
@@ -282,7 +282,7 @@ Amazon RDS est disponible sur six moteurs de bases de données, qui optimisent l
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles sont les situations dans lesquelles vous devez utiliser Amazon Relational Database Service (Amazon RDS) ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles sont les situations dans lesquelles vous devez utiliser Amazon Relational Database Service (Amazon RDS) ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Exécution d'une base de données sans serveur
 - Utiliser SQL pour organiser les données
@@ -293,7 +293,7 @@ Amazon RDS est disponible sur six moteurs de bases de données, qui optimisent l
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles sont les situations dans lesquelles vous devez utiliser Amazon Relational Database Service (Amazon RDS) ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles sont les situations dans lesquelles vous devez utiliser Amazon Relational Database Service (Amazon RDS) ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Exécution d'une base de données sans serveur 
 - Utiliser SQL pour organiser les données <!-- .element: style="color:#0de07d;" -->
@@ -366,7 +366,7 @@ Amazon RDS est disponible sur six moteurs de bases de données, qui optimisent l
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles classes de stockage Amazon S3 sont optimisées pour les données d'archivage ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles classes de stockage Amazon S3 sont optimisées pour les données d'archivage ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Amazon S3 Standard
 - Amazon S3 Glacier Flexible Retrieval
@@ -377,7 +377,7 @@ Amazon RDS est disponible sur six moteurs de bases de données, qui optimisent l
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles classes de stockage Amazon S3 sont optimisées pour les données d'archivage ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles classes de stockage Amazon S3 sont optimisées pour les données d'archivage ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Amazon S3 Standard
 - Amazon S3 Glacier Flexible Retrieval <!-- .element: style="color:#0de07d;" -->
@@ -388,7 +388,7 @@ Amazon RDS est disponible sur six moteurs de bases de données, qui optimisent l
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles affirmations relatives aux volumes Amazon EBS et aux systèmes de fichiers Amazon EFS sont VRAIES ?
+#### Quiz: Quelles affirmations relatives aux volumes Amazon EBS et aux systèmes de fichiers Amazon EFS sont VRAIES ? <!-- .element: style="color:#fd9731;" -->
 
 - Les volumes EBS stockent les données dans une seule zone de disponibilité. Les systèmes de fichiers Amazon EFS stockent les données dans plusieurs zones de disponibilité.
 - Les volumes EBS stockent les données dans plusieurs zones de disponibilité. Les systèmes de fichiers Amazon EFS stockent les données dans une seule zone de disponibilité.
@@ -398,7 +398,7 @@ Amazon RDS est disponible sur six moteurs de bases de données, qui optimisent l
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles affirmations relatives aux volumes Amazon EBS et aux systèmes de fichiers Amazon EFS sont VRAIES ?
+#### Quiz: Quelles affirmations relatives aux volumes Amazon EBS et aux systèmes de fichiers Amazon EFS sont VRAIES ? <!-- .element: style="color:#fd9731;" -->
 
 - Les volumes EBS stockent les données dans une seule zone de disponibilité. Les systèmes de fichiers Amazon EFS stockent les données dans plusieurs zones de disponibilité. <!-- .element: style="color:#0de07d;" -->
 - Les volumes EBS stockent les données dans plusieurs zones de disponibilité. Les systèmes de fichiers Amazon EFS stockent les données dans une seule zone de disponibilité.
@@ -408,7 +408,7 @@ Amazon RDS est disponible sur six moteurs de bases de données, qui optimisent l
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Vous souhaitez stocker des données dans un service de stockage d'objets. Quel service AWS convient le mieux à ce type de stockage ?
+#### Quiz: Vous souhaitez stocker des données dans un service de stockage d'objets. Quel service AWS convient le mieux à ce type de stockage ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon Managed Blockchain
 - Amazon Elastic File System (Amazon EFS)
@@ -418,7 +418,7 @@ Amazon RDS est disponible sur six moteurs de bases de données, qui optimisent l
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Vous souhaitez stocker des données dans un service de stockage d'objets. Quel service AWS convient le mieux à ce type de stockage ?
+#### Quiz: Vous souhaitez stocker des données dans un service de stockage d'objets. Quel service AWS convient le mieux à ce type de stockage ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon Managed Blockchain
 - Amazon Elastic File System (Amazon EFS)
@@ -428,7 +428,7 @@ Amazon RDS est disponible sur six moteurs de bases de données, qui optimisent l
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux Amazon DynamoDB ?
+#### Quiz: Quelle affirmation décrit le mieux Amazon DynamoDB ? <!-- .element: style="color:#fd9731;" -->
 
 - Un service qui vous permet d'exécuter des bases de données relationnelles dans le Cloud AWS
 - Un service de base de données clé-valeur sans serveur
@@ -438,7 +438,7 @@ Amazon RDS est disponible sur six moteurs de bases de données, qui optimisent l
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux Amazon DynamoDB ?
+#### Quiz: Quelle affirmation décrit le mieux Amazon DynamoDB ? <!-- .element: style="color:#fd9731;" -->
 
 - Un service qui vous permet d'exécuter des bases de données relationnelles dans le Cloud AWS
 - Un service de base de données clé-valeur sans serveur <!-- .element: style="color:#0de07d;" -->
@@ -448,7 +448,7 @@ Amazon RDS est disponible sur six moteurs de bases de données, qui optimisent l
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel service est utilisé pour interroger et analyser des données dans un entrepôt de données ?
+#### Quiz: Quel service est utilisé pour interroger et analyser des données dans un entrepôt de données ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon Redshift
 - Amazon Neptune
@@ -458,7 +458,7 @@ Amazon RDS est disponible sur six moteurs de bases de données, qui optimisent l
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel service est utilisé pour interroger et analyser des données dans un entrepôt de données ?
+#### Quiz: Quel service est utilisé pour interroger et analyser des données dans un entrepôt de données ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon Redshift <!-- .element: style="color:#0de07d;" -->
 - Amazon Neptune

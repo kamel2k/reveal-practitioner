@@ -114,7 +114,7 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux la liste de contrôle d'accès au réseau par défaut d'un compte AWS ?
+#### Quiz: Quelle affirmation décrit le mieux la liste de contrôle d'accès au réseau par défaut d'un compte AWS ? <!-- .element: style="color:#fd9731;" -->
 
 - Il est sans état et refuse tout le trafic entrant et sortant.
 - Il est avec état et autorise tout le trafic entrant et sortant.
@@ -124,7 +124,7 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux la liste de contrôle d'accès au réseau par défaut d'un compte AWS ?
+#### Quiz: Quelle affirmation décrit le mieux la liste de contrôle d'accès au réseau par défaut d'un compte AWS ? <!-- .element: style="color:#fd9731;" -->
 
 - Il est sans état et refuse tout le trafic entrant et sortant.
 - Il est avec état et autorise tout le trafic entrant et sortant.
@@ -159,7 +159,7 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux la résolution DNS ?
+#### Quiz: Quelle affirmation décrit le mieux la résolution DNS ? <!-- .element: style="color:#fd9731;" -->
 
 - Lancement de ressources dans un réseau virtuel que vous définissez
 - Stockage de copies locales de contenu dans des emplacements périphériques à travers le monde
@@ -169,7 +169,7 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux la résolution DNS ?
+#### Quiz: Quelle affirmation décrit le mieux la résolution DNS ? <!-- .element: style="color:#fd9731;" -->
 
 - Lancement de ressources dans un réseau virtuel que vous définissez
 - Stockage de copies locales de contenu dans des emplacements périphériques à travers le monde
@@ -199,7 +199,7 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel composant peut être utilisé pour établir une connexion privée dédiée entre le centre de données de votre entreprise et AWS ?
+#### Quiz: Quel composant peut être utilisé pour établir une connexion privée dédiée entre le centre de données de votre entreprise et AWS ? <!-- .element: style="color:#fd9731;" -->
 
 - Sous-réseau privé
 - DNS
@@ -209,7 +209,7 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 --- 
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel composant peut être utilisé pour établir une connexion privée dédiée entre le centre de données de votre entreprise et AWS ?
+#### Quiz: Quel composant peut être utilisé pour établir une connexion privée dédiée entre le centre de données de votre entreprise et AWS ? <!-- .element: style="color:#fd9731;" -->
 
 - Sous-réseau privé
 - DNS
@@ -219,7 +219,7 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux les groupes de sécurité ?
+#### Quiz: Quelle affirmation décrit le mieux les groupes de sécurité ? <!-- .element: style="color:#fd9731;" -->
 
 - Ils sont avec état et refusent tout le trafic entrant par défaut.
 - Ils sont avec état et autorisent tout le trafic entrant par défaut.
@@ -229,7 +229,7 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux les groupes de sécurité ?
+#### Quiz: Quelle affirmation décrit le mieux les groupes de sécurité ? <!-- .element: style="color:#fd9731;" -->
 
 - Ils sont avec état et refusent tout le trafic entrant par défaut. <!-- .element: style="color:#0de07d;" -->
 - Ils sont avec état et autorisent tout le trafic entrant par défaut.
@@ -239,7 +239,7 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel composant est utilisé pour connecter un VPC à Internet ?
+#### Quiz: Quel composant est utilisé pour connecter un VPC à Internet ? <!-- .element: style="color:#fd9731;" -->
 
 - Sous-réseau public
 - Emplacement périphérique
@@ -249,7 +249,7 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel composant est utilisé pour connecter un VPC à Internet ?
+#### Quiz: Quel composant est utilisé pour connecter un VPC à Internet ? <!-- .element: style="color:#fd9731;" -->
 
 - Sous-réseau public
 - Emplacement périphérique
@@ -259,7 +259,7 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel service est utilisé pour gérer les enregistrements DNS pour les noms de domaine ?
+#### Quiz: Quel service est utilisé pour gérer les enregistrements DNS pour les noms de domaine ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon Virtual Private Cloud
 - AWS Direct Connect
@@ -269,7 +269,7 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel service est utilisé pour gérer les enregistrements DNS pour les noms de domaine ?
+#### Quiz: Quel service est utilisé pour gérer les enregistrements DNS pour les noms de domaine ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon Virtual Private Cloud
 - AWS Direct Connect

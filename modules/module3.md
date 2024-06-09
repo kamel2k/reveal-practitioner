@@ -56,7 +56,7 @@ Si us-west-1a échouait, votre application serait toujours en cours d'exécution
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Parmi les affirmations suivantes, laquelle décrit le mieux le concept de zones de disponibilité ?
+#### Quiz: Parmi les affirmations suivantes, laquelle décrit le mieux le concept de zones de disponibilité ? <!-- .element: style="color:#fd9731;" -->
 
 - Une zone géographique qui contient des ressources AWS
 - Un centre de données unique ou un groupe de centres de données au sein d'une région
@@ -66,7 +66,7 @@ Si us-west-1a échouait, votre application serait toujours en cours d'exécution
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Parmi les affirmations suivantes, laquelle décrit le mieux le concept de zones de disponibilité ?
+#### Quiz: Parmi les affirmations suivantes, laquelle décrit le mieux le concept de zones de disponibilité ? <!-- .element: style="color:#fd9731;" -->
 
 - Une zone géographique qui contient des ressources AWS
 - Un centre de données unique ou un groupe de centres de données au sein d'une région <!-- .element: style="color:#0de07d;" -->
@@ -134,7 +134,7 @@ AWS CloudFormation met en service vos ressources de manière sûre et reproducti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation est VRAIE pour l'infrastructure globale AWS ?
+#### Quiz: Quelle affirmation est VRAIE pour l'infrastructure globale AWS ? <!-- .element: style="color:#fd9731;" -->
 
 - Une région se compose d'une seule zone de disponibilité.
 - Une zone de disponibilité se compose de deux régions ou plus.
@@ -144,7 +144,7 @@ AWS CloudFormation met en service vos ressources de manière sûre et reproducti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation est VRAIE pour l'infrastructure globale AWS ?
+#### Quiz: Quelle affirmation est VRAIE pour l'infrastructure globale AWS ? <!-- .element: style="color:#fd9731;" -->
 
 - Une région se compose d'une seule zone de disponibilité.
 - Une zone de disponibilité se compose de deux régions ou plus.
@@ -154,7 +154,7 @@ AWS CloudFormation met en service vos ressources de manière sûre et reproducti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quels facteurs devraient être pris en compte lors du choix d'une région ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quels facteurs devraient être pris en compte lors du choix d'une région ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Conformité en matière de gouvernance des données et exigences légales
 - Proximité avec vos clients
@@ -165,7 +165,7 @@ AWS CloudFormation met en service vos ressources de manière sûre et reproducti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quels facteurs devraient être pris en compte lors du choix d'une région ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quels facteurs devraient être pris en compte lors du choix d'une région ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Conformité en matière de gouvernance des données et exigences légales <!-- .element: style="color:#0de07d;" -->
 - Proximité avec vos clients <!-- .element: style="color:#0de07d;" -->
@@ -176,7 +176,7 @@ AWS CloudFormation met en service vos ressources de manière sûre et reproducti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux Amazon CloudFront ?
+#### Quiz: Quelle affirmation décrit le mieux Amazon CloudFront ? <!-- .element: style="color:#fd9731;" -->
 
 - Un service qui vous permet d'exécuter une infrastructure dans une approche cloud hybride
 - Un moteur de calcul serverless pour les conteneurs
@@ -186,7 +186,7 @@ AWS CloudFormation met en service vos ressources de manière sûre et reproducti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux Amazon CloudFront ?
+#### Quiz: Quelle affirmation décrit le mieux Amazon CloudFront ? <!-- .element: style="color:#fd9731;" -->
 
 - Un service qui vous permet d'exécuter une infrastructure dans une approche cloud hybride
 - Un moteur de calcul serverless pour les conteneurs
@@ -196,7 +196,7 @@ AWS CloudFormation met en service vos ressources de manière sûre et reproducti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel site Amazon CloudFront utilise-t-il pour mettre en cache des copies de contenu pour une livraison plus rapide aux utilisateurs, quel que soit leur emplacement ?
+#### Quiz: Quel site Amazon CloudFront utilise-t-il pour mettre en cache des copies de contenu pour une livraison plus rapide aux utilisateurs, quel que soit leur emplacement ? <!-- .element: style="color:#fd9731;" -->
 
 - Région
 - Zone de disponibilité
@@ -206,7 +206,7 @@ AWS CloudFormation met en service vos ressources de manière sûre et reproducti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel site Amazon CloudFront utilise-t-il pour mettre en cache des copies de contenu pour une livraison plus rapide aux utilisateurs, quel que soit leur emplacement ?
+#### Quiz: Quel site Amazon CloudFront utilise-t-il pour mettre en cache des copies de contenu pour une livraison plus rapide aux utilisateurs, quel que soit leur emplacement ? <!-- .element: style="color:#fd9731;" -->
 
 - Région
 - Zone de disponibilité
@@ -216,7 +216,7 @@ AWS CloudFormation met en service vos ressources de manière sûre et reproducti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle action pouvez-vous effectuer avec AWS Outposts ?
+#### Quiz: Quelle action pouvez-vous effectuer avec AWS Outposts ? <!-- .element: style="color:#fd9731;" -->
 
 - Automatiser des actions pour des services et applications AWS à l'aide de scripts.
 - Accéder à des assistants et à des flux de travail automatisés pour effectuer des tâches dans les services AWS.
@@ -226,7 +226,7 @@ AWS CloudFormation met en service vos ressources de manière sûre et reproducti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle action pouvez-vous effectuer avec AWS Outposts ?
+#### Quiz: Quelle action pouvez-vous effectuer avec AWS Outposts ? <!-- .element: style="color:#fd9731;" -->
 
 - Automatiser des actions pour des services et applications AWS à l'aide de scripts.
 - Accéder à des assistants et à des flux de travail automatisés pour effectuer des tâches dans les services AWS.

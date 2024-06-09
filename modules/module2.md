@@ -99,7 +99,7 @@ En calcul, les opérations d'entrée/sortie par seconde (IOPS) sont une métriqu
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel type d'instance Amazon EC2 convient aux applications d'entreposage de données ?
+#### Quiz: Quel type d'instance Amazon EC2 convient aux applications d'entreposage de données ? <!-- .element: style="color:#fd9731;" -->
 
 - Optimisée en mémoire
 - Avec stockage optimisé
@@ -109,7 +109,7 @@ En calcul, les opérations d'entrée/sortie par seconde (IOPS) sont une métriqu
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel type d'instance Amazon EC2 convient aux applications d'entreposage de données ?
+#### Quiz: Quel type d'instance Amazon EC2 convient aux applications d'entreposage de données ? <!-- .element: style="color:#fd9731;" -->
 
 - Optimisée en mémoire
 - Avec stockage optimisé <!-- .element: style="color:#0de07d;" -->
@@ -119,7 +119,7 @@ En calcul, les opérations d'entrée/sortie par seconde (IOPS) sont une métriqu
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel type d'instance Amazon EC2 équilibre les ressources de calcul, de mémoire et de mise en réseau ?
+#### Quiz: Quel type d'instance Amazon EC2 équilibre les ressources de calcul, de mémoire et de mise en réseau ? <!-- .element: style="color:#fd9731;" -->
 
 - Optimisée en mémoire
 - Avec stockage optimisé
@@ -129,7 +129,7 @@ En calcul, les opérations d'entrée/sortie par seconde (IOPS) sont une métriqu
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel type d'instance Amazon EC2 équilibre les ressources de calcul, de mémoire et de mise en réseau ?
+#### Quiz: Quel type d'instance Amazon EC2 équilibre les ressources de calcul, de mémoire et de mise en réseau ? <!-- .element: style="color:#fd9731;" -->
 
 - Optimisée en mémoire
 - Avec stockage optimisé
@@ -139,7 +139,7 @@ En calcul, les opérations d'entrée/sortie par seconde (IOPS) sont une métriqu
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel type d'instance Amazon EC2 est idéal pour les bases de données hautes performances ?
+#### Quiz: Quel type d'instance Amazon EC2 est idéal pour les bases de données hautes performances ? <!-- .element: style="color:#fd9731;" -->
 
 - Optimisée en mémoire
 - Avec stockage optimisé
@@ -149,7 +149,7 @@ En calcul, les opérations d'entrée/sortie par seconde (IOPS) sont une métriqu
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel type d'instance Amazon EC2 est idéal pour les bases de données hautes performances ?
+#### Quiz: Quel type d'instance Amazon EC2 est idéal pour les bases de données hautes performances ? <!-- .element: style="color:#fd9731;" -->
 
 - Optimisée en mémoire <!-- .element: style="color:#0de07d;" -->
 - Avec stockage optimisé
@@ -159,7 +159,7 @@ En calcul, les opérations d'entrée/sortie par seconde (IOPS) sont une métriqu
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel type d'instance Amazon EC2 propose des processeurs hautes performances ?
+#### Quiz: Quel type d'instance Amazon EC2 propose des processeurs hautes performances ? <!-- .element: style="color:#fd9731;" -->
 
 - Optimisée en mémoire
 - Avec stockage optimisé
@@ -169,7 +169,7 @@ En calcul, les opérations d'entrée/sortie par seconde (IOPS) sont une métriqu
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel type d'instance Amazon EC2 propose des processeurs hautes performances ?
+#### Quiz: Quel type d'instance Amazon EC2 propose des processeurs hautes performances ? <!-- .element: style="color:#fd9731;" -->
 
 - Optimisée en mémoire
 - Avec stockage optimisé
@@ -239,7 +239,7 @@ Vous pouvez utiliser vos licences logicielles par socket, par cœur ou par machi
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle option de tarification Amazon EC2 offre une remise lorsque vous indiquez un nombre d'instances EC2 pour exécuter un système d'exploitation, une famille et taille d'instance ainsi qu'une location spécifiques dans une seule région ?
+#### Quiz: Quelle option de tarification Amazon EC2 offre une remise lorsque vous indiquez un nombre d'instances EC2 pour exécuter un système d'exploitation, une famille et taille d'instance ainsi qu'une location spécifiques dans une seule région ? <!-- .element: style="color:#fd9731;" -->
 
 - Instances réservées convertibles
 - EC2 Instance Savings Plans
@@ -249,7 +249,7 @@ Vous pouvez utiliser vos licences logicielles par socket, par cœur ou par machi
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle option de tarification Amazon EC2 offre une remise lorsque vous indiquez un nombre d'instances EC2 pour exécuter un système d'exploitation, une famille et taille d'instance ainsi qu'une location spécifiques dans une seule région ?
+#### Quiz: Quelle option de tarification Amazon EC2 offre une remise lorsque vous indiquez un nombre d'instances EC2 pour exécuter un système d'exploitation, une famille et taille d'instance ainsi qu'une location spécifiques dans une seule région ? <!-- .element: style="color:#fd9731;" -->
 
 - Instances réservées convertibles
 - EC2 Instance Savings Plans
@@ -259,7 +259,7 @@ Vous pouvez utiliser vos licences logicielles par socket, par cœur ou par machi
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle option de tarification Amazon EC2 offre une remise lorsque vous avez un engagement de dépense horaire envers une famille d'instance et une région sur 1 ou 3 ans ?
+#### Quiz: Quelle option de tarification Amazon EC2 offre une remise lorsque vous avez un engagement de dépense horaire envers une famille d'instance et une région sur 1 ou 3 ans ? <!-- .element: style="color:#fd9731;" -->
 
 - À la demande
 - EC2 Instance Savings Plans
@@ -269,7 +269,7 @@ Vous pouvez utiliser vos licences logicielles par socket, par cœur ou par machi
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle option de tarification Amazon EC2 offre une remise lorsque vous avez un engagement de dépense horaire envers une famille d'instance et une région sur 1 ou 3 ans ?
+#### Quiz: Quelle option de tarification Amazon EC2 offre une remise lorsque vous avez un engagement de dépense horaire envers une famille d'instance et une région sur 1 ou 3 ans ? <!-- .element: style="color:#fd9731;" -->
 
 - À la demande
 - EC2 Instance Savings Plans <!-- .element: style="color:#0de07d;" -->
@@ -357,7 +357,7 @@ Applications monolithiques  |  Applications microservices
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel service AWS est le meilleur choix pour publier des messages aux abonnés ?
+#### Quiz: Quel service AWS est le meilleur choix pour publier des messages aux abonnés ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon Simple Queue Service (Amazon SQS)
 - Amazon EC2 Auto Scaling
@@ -367,7 +367,7 @@ Applications monolithiques  |  Applications microservices
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel service AWS est le meilleur choix pour publier des messages aux abonnés ?
+#### Quiz: Quel service AWS est le meilleur choix pour publier des messages aux abonnés ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon Simple Queue Service (Amazon SQS)
 - Amazon EC2 Auto Scaling
@@ -423,7 +423,7 @@ Applications monolithiques  |  Applications microservices
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Vous souhaitez utiliser une instance Amazon EC2 pour une charge de travail de traitement par lots. Quel serait le meilleur type d'instance Amazon EC2 à utiliser ?
+#### Quiz: Vous souhaitez utiliser une instance Amazon EC2 pour une charge de travail de traitement par lots. Quel serait le meilleur type d'instance Amazon EC2 à utiliser ? <!-- .element: style="color:#fd9731;" -->
 
 - À usage général
 - Optimisée en mémoire
@@ -433,7 +433,7 @@ Applications monolithiques  |  Applications microservices
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Vous souhaitez utiliser une instance Amazon EC2 pour une charge de travail de traitement par lots. Quel serait le meilleur type d'instance Amazon EC2 à utiliser ?
+#### Quiz: Vous souhaitez utiliser une instance Amazon EC2 pour une charge de travail de traitement par lots. Quel serait le meilleur type d'instance Amazon EC2 à utiliser ? <!-- .element: style="color:#fd9731;" -->
 
 - À usage général
 - Optimisée en mémoire
@@ -443,7 +443,7 @@ Applications monolithiques  |  Applications microservices
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles sont les options de durée de contrat pour les instances réservées Amazon EC2 ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles sont les options de durée de contrat pour les instances réservées Amazon EC2 ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - 1 an 
 - 2 ans
@@ -454,7 +454,7 @@ Applications monolithiques  |  Applications microservices
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles sont les options de durée de contrat pour les instances réservées Amazon EC2 ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles sont les options de durée de contrat pour les instances réservées Amazon EC2 ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - 1 an <!-- .element: style="color:#0de07d;" -->
 - 2 ans
@@ -465,7 +465,7 @@ Applications monolithiques  |  Applications microservices
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Vous avez une charge de travail qui durera au total 6 mois et peut résister aux interruptions. Quelle serait l'option d'achat Amazon EC2 la plus rentable ?
+#### Quiz: Vous avez une charge de travail qui durera au total 6 mois et peut résister aux interruptions. Quelle serait l'option d'achat Amazon EC2 la plus rentable ?
 
 - Instance réservée
 - Instance Spot
@@ -475,7 +475,7 @@ Applications monolithiques  |  Applications microservices
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Vous avez une charge de travail qui durera au total 6 mois et peut résister aux interruptions. Quelle serait l'option d'achat Amazon EC2 la plus rentable ?
+#### Quiz: Vous avez une charge de travail qui durera au total 6 mois et peut résister aux interruptions. Quelle serait l'option d'achat Amazon EC2 la plus rentable ? <!-- .element: style="color:#fd9731;" -->
 
 - Instance réservée
 - Instance Spot <!-- .element: style="color:#0de07d;" -->
@@ -485,7 +485,7 @@ Applications monolithiques  |  Applications microservices
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel processus est un exemple d'Elastic Load Balancing ?
+#### Quiz: Quel processus est un exemple d'Elastic Load Balancing ? <!-- .element: style="color:#fd9731;" -->
 
 - Veiller à ce qu'aucune instance Amazon EC2 n'ait à supporter seule la charge de travail complète
 - Suppression des instances Amazon EC2 inutiles lorsque la demande est faible
@@ -495,7 +495,7 @@ Applications monolithiques  |  Applications microservices
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel processus est un exemple d'Elastic Load Balancing ?
+#### Quiz: Quel processus est un exemple d'Elastic Load Balancing ? <!-- .element: style="color:#fd9731;" -->
 
 - Veiller à ce qu'aucune instance Amazon EC2 n'ait à supporter seule la charge de travail complète <!-- .element: style="color:#0de07d;" -->
 - Suppression des instances Amazon EC2 inutiles lorsque la demande est faible
@@ -505,7 +505,7 @@ Applications monolithiques  |  Applications microservices
 ---
 
 <!-- .slide: data-auto-animate -->
-## Vous souhaitez déployer et gérer des applications conteneurisées. Quel service devriez-vous utiliser ?
+#### Quiz: Vous souhaitez déployer et gérer des applications conteneurisées. Quel service devriez-vous utiliser ? <!-- .element: style="color:#fd9731;" -->
 
 - AWS Lambda
 - Amazon Simple Notification Service (Amazon SNS)
@@ -515,7 +515,7 @@ Applications monolithiques  |  Applications microservices
 ---
 
 <!-- .slide: data-auto-animate -->
-## Vous souhaitez déployer et gérer des applications conteneurisées. Quel service devriez-vous utiliser ?
+#### Quiz: Vous souhaitez déployer et gérer des applications conteneurisées. Quel service devriez-vous utiliser ? <!-- .element: style="color:#fd9731;" -->
 
 - AWS Lambda
 - Amazon Simple Notification Service (Amazon SNS)

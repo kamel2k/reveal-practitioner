@@ -193,7 +193,7 @@ La mise hors service est le processus qui permet de supprimer des applications q
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle stratégie de migration implique de passer à un produit différent ?
+#### Quiz: Quelle stratégie de migration implique de passer à un produit différent ? <!-- .element: style="color:#fd9731;" -->
 
 - Refactorisation
 - Mise hors service
@@ -203,7 +203,7 @@ La mise hors service est le processus qui permet de supprimer des applications q
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle stratégie de migration implique de passer à un produit différent ?
+#### Quiz: Quelle stratégie de migration implique de passer à un produit différent ? <!-- .element: style="color:#fd9731;" -->
 
 - Refactorisation
 - Mise hors service
@@ -258,7 +258,7 @@ ensemble de périphériques physiques qui permettent de transporter physiquement
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle est la capacité de stockage de Snowball Edge Storage Optimized ?
+#### Quiz: Quelle est la capacité de stockage de Snowball Edge Storage Optimized ? <!-- .element: style="color:#fd9731;" -->
 
 - 40 To
 - 60 To
@@ -268,7 +268,7 @@ ensemble de périphériques physiques qui permettent de transporter physiquement
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle est la capacité de stockage de Snowball Edge Storage Optimized ?
+#### Quiz: Quelle est la capacité de stockage de Snowball Edge Storage Optimized ? <!-- .element: style="color:#fd9731;" -->
 
 - 40 To
 - 60 To
@@ -298,7 +298,7 @@ ensemble de périphériques physiques qui permettent de transporter physiquement
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel service vous aide à créer, former et déployer rapidement des modèles de machine learning ?
+#### Quiz: Quel service vous aide à créer, former et déployer rapidement des modèles de machine learning ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon Textract
 - Amazon Lex
@@ -308,7 +308,7 @@ ensemble de périphériques physiques qui permettent de transporter physiquement
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel service vous aide à créer, former et déployer rapidement des modèles de machine learning ?
+#### Quiz: Quel service vous aide à créer, former et déployer rapidement des modèles de machine learning ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon Textract
 - Amazon Lex
@@ -318,7 +318,7 @@ ensemble de périphériques physiques qui permettent de transporter physiquement
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle perspective du Framework d'adoption du Cloud AWS vous permet de structurer la sélection et l'implémentation des contrôles ?
+#### Quiz: Quelle perspective du Framework d'adoption du Cloud AWS vous permet de structurer la sélection et l'implémentation des contrôles ? <!-- .element: style="color:#fd9731;" -->
 
 - Perspective Gouvernance
 - Perspective Sécurité
@@ -328,7 +328,7 @@ ensemble de périphériques physiques qui permettent de transporter physiquement
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle perspective du Framework d'adoption du Cloud AWS vous permet de structurer la sélection et l'implémentation des contrôles ?
+#### Quiz: Quelle perspective du Framework d'adoption du Cloud AWS vous permet de structurer la sélection et l'implémentation des contrôles ? <!-- .element: style="color:#fd9731;" -->
 
 - Perspective Gouvernance
 - Perspective Sécurité <!-- .element: style="color:#0de07d;" -->
@@ -338,7 +338,7 @@ ensemble de périphériques physiques qui permettent de transporter physiquement
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles sont les six stratégies de migration d'applications ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles sont les six stratégies de migration d'applications ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Revisite
 - Retenue
@@ -349,7 +349,7 @@ ensemble de périphériques physiques qui permettent de transporter physiquement
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles sont les six stratégies de migration d'applications ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles sont les six stratégies de migration d'applications ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Revisite
 - Retenue <!-- .element: style="color:#0de07d;" -->
@@ -360,17 +360,27 @@ ensemble de périphériques physiques qui permettent de transporter physiquement
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle est la capacité de stockage d'AWS Snowmobile ?
+#### Quiz: Quelle est la capacité de stockage d'AWS Snowmobile ? <!-- .element: style="color:#fd9731;" -->
+
+- 40 Po
+- 60 Po
+- 80 Po 
+- 100 Po
+
+---
+
+<!-- .slide: data-auto-animate -->
+#### Quiz: Quelle est la capacité de stockage d'AWS Snowmobile ? <!-- .element: style="color:#fd9731;" -->
 
 - 40 Po
 - 60 Po
 - 80 Po 
 - 100 Po <!-- .element: style="color:#0de07d;" -->
-
+  
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux Amazon Lex ?
+#### Quiz: Quelle affirmation décrit le mieux Amazon Lex ? <!-- .element: style="color:#fd9731;" -->
 
 - Un service qui vous permet de créer des interfaces de conversation reposant sur la voix et le texte 
 - Un service de machine learning qui extrait automatiquement du texte et des données depuis des documents numérisés
@@ -380,7 +390,7 @@ ensemble de périphériques physiques qui permettent de transporter physiquement
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelle affirmation décrit le mieux Amazon Lex ?
+#### Quiz: Quelle affirmation décrit le mieux Amazon Lex ? <!-- .element: style="color:#fd9731;" -->
 
 - Un service qui vous permet de créer des interfaces de conversation reposant sur la voix et le texte <!-- .element: style="color:#0de07d;" -->
 - Un service de machine learning qui extrait automatiquement du texte et des données depuis des documents numérisés

@@ -69,7 +69,7 @@ Six pilliers
 
 <!-- .slide: data-auto-animate -->
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel pilier du cadre AWS Well-Architected Framework met l'accent sur la capacité d'une charge de travail à exécuter de manière cohérente et appropriée les fonctions prévues ?
+#### Quiz: Quel pilier du cadre AWS Well-Architected Framework met l'accent sur la capacité d'une charge de travail à exécuter de manière cohérente et appropriée les fonctions prévues ? <!-- .element: style="color:#fd9731;" -->
 
 - Excellence opérationnelle
 - Efficacité des performances
@@ -79,7 +79,7 @@ Six pilliers
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel pilier du cadre AWS Well-Architected Framework met l'accent sur la capacité d'une charge de travail à exécuter de manière cohérente et appropriée les fonctions prévues ?
+#### Quiz: Quel pilier du cadre AWS Well-Architected Framework met l'accent sur la capacité d'une charge de travail à exécuter de manière cohérente et appropriée les fonctions prévues ? <!-- .element: style="color:#fd9731;" -->
 
 - Excellence opérationnelle
 - Efficacité des performances
@@ -100,7 +100,7 @@ Six pilliers
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel processus confère d'importantes économies d'échelle ?
+#### Quiz: Quel processus confère d'importantes économies d'échelle ? <!-- .element: style="color:#fd9731;" -->
 
 - Déploiement d'une application dans plusieurs régions du monde
 - Tarification à l'utilisation moindre en raison de l'utilisation groupée des services par les clients AWS
@@ -110,7 +110,7 @@ Six pilliers
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel processus confère d'importantes économies d'échelle ?
+#### Quiz: Quel processus confère d'importantes économies d'échelle ? <!-- .element: style="color:#fd9731;" -->
 
 - Déploiement d'une application dans plusieurs régions du monde
 - Tarification à l'utilisation moindre en raison de l'utilisation groupée des services par les clients AWS <!-- .element: style="color:#0de07d;" -->
@@ -120,7 +120,7 @@ Six pilliers
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel pilier du cadre AWS Well-Architected Framework inclut la capacité à efficacement exécuter des charges de travail et à obtenir des informations sur leurs opérations ?
+#### Quiz: Quel pilier du cadre AWS Well-Architected Framework inclut la capacité à efficacement exécuter des charges de travail et à obtenir des informations sur leurs opérations ? <!-- .element: style="color:#fd9731;" -->
 
 - Optimisation des coûts
 - Excellence opérationnelle
@@ -130,7 +130,7 @@ Six pilliers
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel pilier du cadre AWS Well-Architected Framework inclut la capacité à efficacement exécuter des charges de travail et à obtenir des informations sur leurs opérations ?
+#### Quiz: Quel pilier du cadre AWS Well-Architected Framework inclut la capacité à efficacement exécuter des charges de travail et à obtenir des informations sur leurs opérations ? <!-- .element: style="color:#fd9731;" -->
 
 - Optimisation des coûts
 - Excellence opérationnelle <!-- .element: style="color:#0de07d;" -->
@@ -139,7 +139,7 @@ Six pilliers
 
 ---
 
-## Quiz: Quels sont les avantages du cloud computing ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quels sont les avantages du cloud computing ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Gagner en vitesse et en agilité
 - Bénéficier d'économies d'échelle moindres.
@@ -149,7 +149,7 @@ Six pilliers
 
 ---
 
-## Quiz: Quels sont les avantages du cloud computing ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quels sont les avantages du cloud computing ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Gagner en vitesse et en agilité <!-- .element: style="color:#0de07d;" -->
 - Bénéficier d'économies d'échelle moindres.

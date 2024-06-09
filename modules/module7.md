@@ -57,7 +57,7 @@ Service qui permet la gouvernance, la conformité, l'audit opérationnel et la g
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles tâches pouvez-vous effectuer à l'aide d'AWS CloudTrail ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles tâches pouvez-vous effectuer à l'aide d'AWS CloudTrail ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Surveiller votre infrastructure et vos ressources AWS en temps réel
 - Suivre les activités des utilisateurs et les demandes d'API dans l'ensemble de votre infrastructure AWS
@@ -68,7 +68,7 @@ Service qui permet la gouvernance, la conformité, l'audit opérationnel et la g
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles tâches pouvez-vous effectuer à l'aide d'AWS CloudTrail ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles tâches pouvez-vous effectuer à l'aide d'AWS CloudTrail ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Surveiller votre infrastructure et vos ressources AWS en temps réel
 - Suivre les activités des utilisateurs et les demandes d'API dans l'ensemble de votre infrastructure AWS <!-- .element: style="color:#0de07d;" -->
@@ -101,7 +101,7 @@ Service qui permet la gouvernance, la conformité, l'audit opérationnel et la g
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles actions pouvez-vous effectuer à l'aide d'Amazon CloudWatch ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles actions pouvez-vous effectuer à l'aide d'Amazon CloudWatch ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Surveiller l'utilisation et les performances de vos ressources
 - Recevoir des conseils en temps réel pour améliorer votre environnement AWS
@@ -112,7 +112,7 @@ Service qui permet la gouvernance, la conformité, l'audit opérationnel et la g
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles actions pouvez-vous effectuer à l'aide d'Amazon CloudWatch ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles actions pouvez-vous effectuer à l'aide d'Amazon CloudWatch ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Surveiller l'utilisation et les performances de vos ressources <!-- .element: style="color:#0de07d;" -->
 - Recevoir des conseils en temps réel pour améliorer votre environnement AWS
@@ -123,7 +123,7 @@ Service qui permet la gouvernance, la conformité, l'audit opérationnel et la g
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel service vous permet de vérifier la sécurité de vos compartiments Amazon S3 en vérifiant les autorisations d'accès libre ?
+#### Quiz: Quel service vous permet de vérifier la sécurité de vos compartiments Amazon S3 en vérifiant les autorisations d'accès libre ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon CloudWatch
 - AWS CloudTrail
@@ -133,7 +133,7 @@ Service qui permet la gouvernance, la conformité, l'audit opérationnel et la g
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quel service vous permet de vérifier la sécurité de vos compartiments Amazon S3 en vérifiant les autorisations d'accès libre ?
+#### Quiz: Quel service vous permet de vérifier la sécurité de vos compartiments Amazon S3 en vérifiant les autorisations d'accès libre ? <!-- .element: style="color:#fd9731;" -->
 
 - Amazon CloudWatch
 - AWS CloudTrail
@@ -143,7 +143,7 @@ Service qui permet la gouvernance, la conformité, l'audit opérationnel et la g
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles sont les catégories incluses dans le tableau de bord AWS Trusted Advisor ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles sont les catégories incluses dans le tableau de bord AWS Trusted Advisor ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Fiabilité
 - Performances
@@ -154,7 +154,7 @@ Service qui permet la gouvernance, la conformité, l'audit opérationnel et la g
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: Quelles sont les catégories incluses dans le tableau de bord AWS Trusted Advisor ? (Sélectionnez DEUX propositions.)
+#### Quiz: Quelles sont les catégories incluses dans le tableau de bord AWS Trusted Advisor ? (Sélectionnez DEUX propositions.) <!-- .element: style="color:#fd9731;" -->
 
 - Fiabilité
 - Performances <!-- .element: style="color:#0de07d;" -->

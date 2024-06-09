@@ -42,7 +42,7 @@ Par exemple, une entreprise peut créer une application composée de serveurs vi
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz : Qu'est-ce que le cloud computing ?
+#### Quiz : Qu'est-ce que le cloud computing ? <!-- .element: style="color:#fd9731;" -->
 
 - La sauvegarde des fichiers stockés sur les ordinateurs de bureau et les appareils mobiles pour éviter la perte de données
 - Le déploiement d'applications connectées à une infrastructure sur site
@@ -51,7 +51,7 @@ Par exemple, une entreprise peut créer une application composée de serveurs vi
 
 ---
 <!-- .slide: data-auto-animate -->
-## Quiz : Qu'est-ce que le cloud computing ?
+#### Quiz : Qu'est-ce que le cloud computing ? <!-- .element: style="color:#fd9731;" -->
 - La sauvegarde des fichiers stockés sur les ordinateurs de bureau et les appareils mobiles pour éviter la perte de données 
 - Le déploiement d'applications connectées à une infrastructure sur site 
 - L'exécution de code sans avoir besoin de gérer ou d'allouer des serveurs
@@ -59,7 +59,7 @@ Par exemple, une entreprise peut créer une application composée de serveurs vi
 
 ---
 <!-- .slide: data-auto-animate -->
-## Quiz : Quel autre nom peut-on donner au déploiement sur site ?
+#### Quiz : Quel autre nom peut-on donner au déploiement sur site ? <!-- .element: style="color:#fd9731;" -->
 - Déploiement de cloud privé
 - Application basée sur le cloud
 - Déploiement hybride
@@ -67,7 +67,7 @@ Par exemple, une entreprise peut créer une application composée de serveurs vi
 
 ---
 <!-- .slide: data-auto-animate -->
-## Quiz : Quel autre nom peut-on donner au déploiement sur site ?
+#### Quiz : Quel autre nom peut-on donner au déploiement sur site ? <!-- .element: style="color:#fd9731;" -->
 - Déploiement de cloud privé <!-- .element: style="color:#0de07d;" -->
 - Application basée sur le cloud
 - Déploiement hybride
@@ -75,7 +75,7 @@ Par exemple, une entreprise peut créer une application composée de serveurs vi
 
 ---
 <!-- .slide: data-auto-animate -->
-## Quiz : Dans quelle mesure la mise à l'échelle du cloud computing vous aide-t-elle à réduire vos coûts ?
+#### Quiz : Dans quelle mesure la mise à l'échelle du cloud computing vous aide-t-elle à réduire vos coûts ? <!-- .element: style="color:#fd9731;" -->
 - Vous n'avez pas à investir dans des ressources technologiques avant de les utiliser.
 - L'utilisation agrégée du cloud par un grand nombre de clients se traduit par une baisse du montant du paiement à l'utilisation.
 - L'accès à des services à la demande permet d'éviter une capacité excédentaire ou limitée.
@@ -83,7 +83,7 @@ Par exemple, une entreprise peut créer une application composée de serveurs vi
 
 ---
 <!-- .slide: data-auto-animate -->
-## Quiz : Dans quelle mesure la mise à l'échelle du cloud computing vous aide-t-elle à réduire vos coûts ?
+#### Quiz : Dans quelle mesure la mise à l'échelle du cloud computing vous aide-t-elle à réduire vos coûts ? <!-- .element: style="color:#fd9731;" -->
 - Vous n'avez pas à investir dans des ressources technologiques avant de les utiliser.
 - L'utilisation agrégée du cloud par un grand nombre de clients se traduit par une baisse du montant du paiement à l'utilisation. <!-- .element: style="color:#0de07d;" -->
 - L'accès à des services à la demande permet d'éviter une capacité excédentaire ou limitée.

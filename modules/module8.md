@@ -28,7 +28,7 @@ L'offre gratuite d'AWS vous permet de commencer à utiliser certains services sa
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: L'offre gratuite d'AWS inclut des offres qui sont disponibles pour les nouveaux clients AWS pendant une certaine période après leur date d'inscription à AWS. Quelle est la durée de cette période ?
+#### Quiz: L'offre gratuite d'AWS inclut des offres qui sont disponibles pour les nouveaux clients AWS pendant une certaine période après leur date d'inscription à AWS. Quelle est la durée de cette période ? <!-- .element: style="color:#fd9731;" -->
 
 - 3 mois
 - 6 mois
@@ -38,7 +38,7 @@ L'offre gratuite d'AWS vous permet de commencer à utiliser certains services sa
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz: L'offre gratuite d'AWS inclut des offres qui sont disponibles pour les nouveaux clients AWS pendant une certaine période après leur date d'inscription à AWS. Quelle est la durée de cette période ?
+#### Quiz: L'offre gratuite d'AWS inclut des offres qui sont disponibles pour les nouveaux clients AWS pendant une certaine période après leur date d'inscription à AWS. Quelle est la durée de cette période ? <!-- .element: style="color:#fd9731;" -->
 
 - 3 mois
 - 6 mois
@@ -279,7 +279,7 @@ Les clients disposant d'une formule de Support Business ont accès à des foncti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz : Quelle action pouvez-vous effectuer avec la facturation consolidée ?
+#### Quiz : Quelle action pouvez-vous effectuer avec la facturation consolidée ? <!-- .element: style="color:#fd9731;" -->
 - Vérifier les coûts que votre utilisation prévisionnelle d'AWS entraînera d'ici la fin du mois.
 - Créer une estimation du coût de vos cas d'utilisation sur AWS.
 - Combiner l'utilisation des comptes pour bénéficier de remises de tarification sur volume.
@@ -288,7 +288,7 @@ Les clients disposant d'une formule de Support Business ont accès à des foncti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz : Quelle action pouvez-vous effectuer avec la facturation consolidée ?
+#### Quiz : Quelle action pouvez-vous effectuer avec la facturation consolidée ? <!-- .element: style="color:#fd9731;" -->
 - Vérifier les coûts que votre utilisation prévisionnelle d'AWS entraînera d'ici la fin du mois.
 - Créer une estimation du coût de vos cas d'utilisation sur AWS.
 - Combiner l'utilisation des comptes pour bénéficier de remises de tarification sur volume. <!-- .element: style="color:#0de07d;" -->
@@ -297,7 +297,7 @@ Les clients disposant d'une formule de Support Business ont accès à des foncti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz : Quel outil de tarification est utilisé pour visualiser, comprendre et gérer vos coûts et votre utilisation AWS au fil du temps ?
+#### Quiz : Quel outil de tarification est utilisé pour visualiser, comprendre et gérer vos coûts et votre utilisation AWS au fil du temps ? <!-- .element: style="color:#fd9731;" -->
 - Calculateur de prix AWS
 - AWS Budgets
 - AWS Cost Explorer
@@ -306,7 +306,7 @@ Les clients disposant d'une formule de Support Business ont accès à des foncti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz : Quel outil de tarification est utilisé pour visualiser, comprendre et gérer vos coûts et votre utilisation AWS au fil du temps ?
+#### Quiz : Quel outil de tarification est utilisé pour visualiser, comprendre et gérer vos coûts et votre utilisation AWS au fil du temps ? <!-- .element: style="color:#fd9731;" -->
 - Calculateur de prix AWS
 - AWS Budgets
 - AWS Cost Explorer <!-- .element: style="color:#0de07d;" -->
@@ -315,7 +315,7 @@ Les clients disposant d'une formule de Support Business ont accès à des foncti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz : Quel outil de tarification vous permet de recevoir des alertes lorsque l'utilisation de votre service dépasse un seuil que vous avez défini ?
+#### Quiz : Quel outil de tarification vous permet de recevoir des alertes lorsque l'utilisation de votre service dépasse un seuil que vous avez défini ? <!-- .element: style="color:#fd9731;" -->
 - Tableau de bord de facturation dans la Console de gestion AWS
 - AWS Budgets
 - Offre gratuite d'AWS
@@ -324,7 +324,7 @@ Les clients disposant d'une formule de Support Business ont accès à des foncti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz : Quel outil de tarification vous permet de recevoir des alertes lorsque l'utilisation de votre service dépasse un seuil que vous avez défini ?
+#### Quiz : Quel outil de tarification vous permet de recevoir des alertes lorsque l'utilisation de votre service dépasse un seuil que vous avez défini ? <!-- .element: style="color:#fd9731;" -->
 - Tableau de bord de facturation dans la Console de gestion AWS
 - AWS Budgets <!-- .element: style="color:#0de07d;" -->
 - Offre gratuite d'AWS
@@ -333,7 +333,7 @@ Les clients disposant d'une formule de Support Business ont accès à des foncti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz : Votre entreprise souhaite bénéficier du support d'un Technical Account Manager (TAM) d'AWS. Quelle formule de support devriez-vous choisir ?
+#### Quiz : Votre entreprise souhaite bénéficier du support d'un Technical Account Manager (TAM) d'AWS. Quelle formule de support devriez-vous choisir ? <!-- .element: style="color:#fd9731;" -->
 - Développeur
 - Enterprise
 - Basique
@@ -342,7 +342,7 @@ Les clients disposant d'une formule de Support Business ont accès à des foncti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz : Votre entreprise souhaite bénéficier du support d'un Technical Account Manager (TAM) d'AWS. Quelle formule de support devriez-vous choisir ?
+#### Quiz : Votre entreprise souhaite bénéficier du support d'un Technical Account Manager (TAM) d'AWS. Quelle formule de support devriez-vous choisir ? <!-- .element: style="color:#fd9731;" -->
 - Développeur
 - Enterprise <!-- .element: style="color:#0de07d;" -->
 - Basique
@@ -351,7 +351,7 @@ Les clients disposant d'une formule de Support Business ont accès à des foncti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz : Quel service ou quelle ressource permet de trouver des logiciels tiers qui s'exécutent sur AWS ?
+#### Quiz : Quel service ou quelle ressource permet de trouver des logiciels tiers qui s'exécutent sur AWS ? <!-- .element: style="color:#fd9731;" -->
 - AWS Marketplace
 - Offre gratuite d'AWS
 - AWS Support
@@ -360,7 +360,7 @@ Les clients disposant d'une formule de Support Business ont accès à des foncti
 ---
 
 <!-- .slide: data-auto-animate -->
-## Quiz : Quel service ou quelle ressource permet de trouver des logiciels tiers qui s'exécutent sur AWS ?
+#### Quiz : Quel service ou quelle ressource permet de trouver des logiciels tiers qui s'exécutent sur AWS ? <!-- .element: style="color:#fd9731;" -->
 - AWS Marketplace <!-- .element: style="color:#0de07d;" -->
 - Offre gratuite d'AWS
 - AWS Support
