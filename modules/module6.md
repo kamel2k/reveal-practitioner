@@ -28,6 +28,28 @@
 
 ---
 
+<!-- .slide: data-auto-animate -->
+## Quelles sont les tâches qui incombent aux clients ? (Sélectionnez DEUX propositions.)
+
+- Maintien de l'infrastructure réseau
+- Application de correctifs logiciels sur les instances Amazon EC2
+- Implémentation de contrôles de sécurité physique dans les centres de données
+- Définition des autorisations pour les objets Amazon S3
+- Gestion des serveurs qui exécutent des instances Amazon EC2
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quelles sont les tâches qui incombent aux clients ? (Sélectionnez DEUX propositions.)
+
+- Maintien de l'infrastructure réseau
+- Application de correctifs logiciels sur les instances Amazon EC2 <!-- .element: style="color:#0de07d;" -->
+- Implémentation de contrôles de sécurité physique dans les centres de données
+- Définition des autorisations pour les objets Amazon S3 <!-- .element: style="color:#0de07d;" -->
+- Gestion des serveurs qui exécutent des instances Amazon EC2
+
+---
+
 ## Autorisations et accès utilisateur
 
 ---
@@ -142,6 +164,27 @@ exemple : Groupe développeurs
 
 ---
 
+<!-- .slide: data-auto-animate -->
+## Vous configurez des stratégies de contrôle des services (SCP) dans AWS Organizations. À quelles identités et ressources les SCP peuvent-elles être appliquées ? (Sélectionnez DEUX propositions.)
+
+- Des utilisateurs IAM
+- Des groupes IAM
+- Un compte de membre individuel
+- Des rôles IAM
+- Une unité organisationnelle (OU)
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Vous configurez des stratégies de contrôle des services (SCP) dans AWS Organizations. À quelles identités et ressources les SCP peuvent-elles être appliquées ? (Sélectionnez DEUX propositions.)
+
+- Des utilisateurs IAM
+- Des groupes IAM
+- Un compte de membre individuel  <!-- .element: style="color:#0de07d;" -->
+- Des rôles IAM
+- Une unité organisationnelle (OU)  <!-- .element: style="color:#0de07d;" -->
+
+
 ## Conformité (Compliance) avec AWS Artifact
 
 - Selon le secteur d'activité de votre entreprise, vous devrez peut-être respecter des normes spécifiques. Un audit ou une inspection permettra de s'assurer que l'entreprise a respecté ces normes.
@@ -167,6 +210,28 @@ exemple : Groupe développeurs
    - Une présentation des risques et de la conformité AWS
    - Une liste de contrôle de la sécurité d'audit.
 
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelles tâches pouvez-vous effectuer dans AWS Artifact ? (Sélectionnez DEUX propositions.)
+
+- Accéder aux rapports de conformité AWS à la demande.
+- Consolider et gérer plusieurs comptes AWS au sein d'un emplacement central.
+- Créer des utilisateurs pour permettre aux personnes et aux applications d'interagir avec les services et ressources AWS.
+- Définir les autorisations pour les comptes en configurant des stratégies de contrôle des services (SCP).
+- Consulter, accepter et gérer des accords avec AWS.
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelles tâches pouvez-vous effectuer dans AWS Artifact ? (Sélectionnez DEUX propositions.)
+
+- Accéder aux rapports de conformité AWS à la demande. <!-- .element: style="color:#0de07d;" -->
+- Consolider et gérer plusieurs comptes AWS au sein d'un emplacement central.
+- Créer des utilisateurs pour permettre aux personnes et aux applications d'interagir avec les services et ressources AWS.
+- Définir les autorisations pour les comptes en configurant des stratégies de contrôle des services (SCP).
+- Consulter, accepter et gérer des accords avec AWS. <!-- .element: style="color:#0de07d;" -->
+  
 ---
 
 ## Attaques par déni de service (DoS)
@@ -257,3 +322,103 @@ exemple : Groupe développeurs
 ## Inspector vs GuardDuty
 
 ![](../images/insp-vs-duty.png)<!-- .element height="80%" width="80%" -->
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation décrit le mieux une politique IAM ?
+
+- Un processus d'authentification qui fournit une couche supplémentaire de protection pour votre compte AWS
+- Un document qui accorde ou refuse des autorisations aux services et ressources AWS 
+- Une identité que vous pouvez endosser pour obtenir un accès temporaire aux autorisations
+- Une identité établie lorsque vous créez un compte AWS pour la première fois
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation décrit le mieux une politique IAM ?
+
+- Un processus d'authentification qui fournit une couche supplémentaire de protection pour votre compte AWS
+- Un document qui accorde ou refuse des autorisations aux services et ressources AWS <!-- .element: style="color:#0de07d;" -->
+- Une identité que vous pouvez endosser pour obtenir un accès temporaire aux autorisations
+- Une identité établie lorsque vous créez un compte AWS pour la première fois
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Un employé a besoin d'un accès temporaire pour créer plusieurs compartiments Amazon S3. Quelle option serait le meilleur choix pour cette tâche ?
+
+- Utilisateur racine d'un compte AWS
+- Groupe IAM
+- Rôle IAM
+- Stratégies de contrôle des services (SCP)
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Un employé a besoin d'un accès temporaire pour créer plusieurs compartiments Amazon S3. Quelle option serait le meilleur choix pour cette tâche ?
+
+- Utilisateur racine d'un compte AWS
+- Groupe IAM
+- Rôle IAM <!-- .element: style="color:#0de07d;" -->
+- Stratégies de contrôle des services (SCP)
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation décrit le mieux le principe du moindre privilège ?
+
+- Ajouter un utilisateur IAM dans au moins un groupe IAM
+- Vérifier les autorisations d'un paquet par rapport à une liste de contrôle d'accès
+- Octroyer uniquement les autorisations nécessaires à l'exécution de tâches spécifiques
+- Exécuter une attaque par déni de service provenant d'au moins un périphérique
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation décrit le mieux le principe du moindre privilège ?
+
+- Ajouter un utilisateur IAM dans au moins un groupe IAM
+- Vérifier les autorisations d'un paquet par rapport à une liste de contrôle d'accès
+- Octroyer uniquement les autorisations nécessaires à l'exécution de tâches spécifiques <!-- .element: style="color:#0de07d;" -->
+- Exécuter une attaque par déni de service provenant d'au moins un périphérique
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel service aide à protéger vos applications contre les attaques par déni de service distribué (DDoS) ?
+
+- Amazon GuardDuty
+- Amazon Inspector
+- AWS Artifact
+- AWS Shield
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel service aide à protéger vos applications contre les attaques par déni de service distribué (DDoS) ?
+
+- Amazon GuardDuty
+- Amazon Inspector
+- AWS Artifact
+- AWS Shield <!-- .element: style="color:#0de07d;" -->
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle tâche AWS Key Management Service (AWS KMS) peut-il effectuer ?
+
+- Configurer l'authenfication multifactorielle (MFA).
+- Mettre à jour le mot de passe de l'utilisateur racine du compte AWS.
+- Créer des clés de chiffrement.
+- Attribuer des autorisations aux utilisateurs et aux groupes.
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle tâche AWS Key Management Service (AWS KMS) peut-il effectuer ?
+
+- Configurer l'authenfication multifactorielle (MFA).
+- Mettre à jour le mot de passe de l'utilisateur racine du compte AWS.
+- Créer des clés de chiffrement. <!-- .element: style="color:#0de07d;" -->
+- Attribuer des autorisations aux utilisateurs et aux groupes.

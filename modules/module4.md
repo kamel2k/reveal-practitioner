@@ -111,4 +111,167 @@ Pour autoriser le trafic public à partir d'Internet à accéder à votre VPC, a
 
 ![](../images/simulation.png)<!-- .element height="55%" width="55%" --> 
 
+---
 
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation décrit le mieux la liste de contrôle d'accès au réseau par défaut d'un compte AWS ?
+
+- Il est sans état et refuse tout le trafic entrant et sortant.
+- Il est avec état et autorise tout le trafic entrant et sortant.
+- Il est sans état et autorise tout le trafic entrant et sortant.
+- Il est avec état et refuse tout le trafic entrant et sortant.
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation décrit le mieux la liste de contrôle d'accès au réseau par défaut d'un compte AWS ?
+
+- Il est sans état et refuse tout le trafic entrant et sortant.
+- Il est avec état et autorise tout le trafic entrant et sortant.
+- Il est sans état et autorise tout le trafic entrant et sortant. <!-- .element: style="color:#0de07d;" -->
+- Il est avec état et refuse tout le trafic entrant et sortant.
+
+---
+
+## Amazon Cloudfront
+
+
+![](../images/cloudfront2.png)<!-- .element height="43%" width="43%" --> 
+
+- Un client demande des données à partir de l'application en se rendant sur le site web de l'entreprise X.
+- Amazon Route 53 utilise la résolution DNS pour identifier l'adresse IP correspondante au site web de l'entreprise X,192.0.2.0. Ces informations sont renvoyées au client. 
+- La requête du client est envoyée vers l'emplacement périphérique le plus proche via Amazon CloudFront. 
+- Amazon CloudFront se connecte à l'Application Load Balancer, qui envoie le paquet entrant à une instance Amazon EC2.
+
+---
+
+## Amazon Route 53
+
+- Service de nom de domaine (DNS) évolutif et hautement disponible
+- traduit le nom du site web a une adresse IP
+- Il connecte les requêtes des utilisateurs aux infrastructures AWS telles que les instances Amazon EC2, les équilibreurs de charge, et Amazon S3.
+- Politiques de routage:
+  * Routage basée sur la latence
+  * Geolocation DNS
+  * Geoproximity routing
+  * Weighted round robin
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation décrit le mieux la résolution DNS ?
+
+- Lancement de ressources dans un réseau virtuel que vous définissez
+- Stockage de copies locales de contenu dans des emplacements périphériques à travers le monde
+- Connexion d'un VPC à Internet
+- Conversion d'un nom de domaine vers une adresse IP
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation décrit le mieux la résolution DNS ?
+
+- Lancement de ressources dans un réseau virtuel que vous définissez
+- Stockage de copies locales de contenu dans des emplacements périphériques à travers le monde
+- Connexion d'un VPC à Internet
+- Conversion d'un nom de domaine vers une adresse IP <!-- .element: style="color:#0de07d;" -->
+
+---
+
+<!-- .slide: data-auto-animate -->
+#### Quiz: Votre entreprise dispose d'une application qui utilise des instances Amazon EC2 pour exécuter le site web client et les instances de base de données Amazon RDS afin de stocker les informations personnelles des clients. Comment le développeur doit-il configurer le VPC selon les bonnes pratiques ? <!-- .element: style="color:#fd9731;" -->
+
+- En plaçant les instances Amazon EC2 dans un sous-réseau privé et les instances de base de données Amazon RDS dans un sous-réseau public.
+- En plaçant les instances Amazon EC2 dans un sous-réseau public et les instances de base de données Amazon RDS dans un sous-réseau privé.
+- En plaçant les instances Amazon EC2 et les instances de base de données Amazon RDS dans un sous-réseau public.
+- En plaçant les instances Amazon EC2 et les instances de base de données Amazon RDS dans un sous-réseau privé.
+
+---
+
+<!-- .slide: data-auto-animate -->
+#### Quiz: Votre entreprise dispose d'une application qui utilise des instances Amazon EC2 pour exécuter le site web client et les instances de base de données Amazon RDS afin de stocker les informations personnelles des clients. Comment le développeur doit-il configurer le VPC selon les bonnes pratiques ? <!-- .element: style="color:#fd9731;" -->
+
+- En plaçant les instances Amazon EC2 dans un sous-réseau privé et les instances de base de données Amazon RDS dans un sous-réseau public.
+- En plaçant les instances Amazon EC2 dans un sous-réseau public et les instances de base de données Amazon RDS dans un sous-réseau privé. <!-- .element: style="color:#0de07d;" -->
+- En plaçant les instances Amazon EC2 et les instances de base de données Amazon RDS dans un sous-réseau public.
+- En plaçant les instances Amazon EC2 et les instances de base de données Amazon RDS dans un sous-réseau privé.
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel composant peut être utilisé pour établir une connexion privée dédiée entre le centre de données de votre entreprise et AWS ?
+
+- Sous-réseau privé
+- DNS
+- AWS Direct Connect
+- Passerelle de réseau privé virtuel
+
+--- 
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel composant peut être utilisé pour établir une connexion privée dédiée entre le centre de données de votre entreprise et AWS ?
+
+- Sous-réseau privé
+- DNS
+- AWS Direct Connect <!-- .element: style="color:#0de07d;" -->
+- Passerelle de réseau privé virtuel
+  
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation décrit le mieux les groupes de sécurité ?
+
+- Ils sont avec état et refusent tout le trafic entrant par défaut.
+- Ils sont avec état et autorisent tout le trafic entrant par défaut.
+- Ils sont sans état et refusent tout le trafic entrant par défaut.
+- Ils sont sans état et autorisent tout le trafic entrant par défaut.
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation décrit le mieux les groupes de sécurité ?
+
+- Ils sont avec état et refusent tout le trafic entrant par défaut. <!-- .element: style="color:#0de07d;" -->
+- Ils sont avec état et autorisent tout le trafic entrant par défaut.
+- Ils sont sans état et refusent tout le trafic entrant par défaut.
+- Ils sont sans état et autorisent tout le trafic entrant par défaut.
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel composant est utilisé pour connecter un VPC à Internet ?
+
+- Sous-réseau public
+- Emplacement périphérique
+- Groupe de sécurité
+- Passerelle Internet
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel composant est utilisé pour connecter un VPC à Internet ?
+
+- Sous-réseau public
+- Emplacement périphérique
+- Groupe de sécurité
+- Passerelle Internet <!-- .element: style="color:#0de07d;" -->
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel service est utilisé pour gérer les enregistrements DNS pour les noms de domaine ?
+
+- Amazon Virtual Private Cloud
+- AWS Direct Connect
+- Amazon CloudFront
+- Amazon Route 53
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel service est utilisé pour gérer les enregistrements DNS pour les noms de domaine ?
+
+- Amazon Virtual Private Cloud
+- AWS Direct Connect
+- Amazon CloudFront
+- Amazon Route 53 <!-- .element: style="color:#0de07d;" -->

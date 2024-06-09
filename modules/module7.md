@@ -54,6 +54,30 @@ Service qui permet la gouvernance, la conformité, l'audit opérationnel et la g
 
 - Par exemple, CloudTrail Insights peut détecter si un nombre plus élevé d'instances Amazon EC2 que d'habitude a récemment été lancé dans votre compte. Vous pouvez ensuite consulter tous les détails de l'événement pour déterminer les actions que vous devez effectuer ensuite.
 
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelles tâches pouvez-vous effectuer à l'aide d'AWS CloudTrail ? (Sélectionnez DEUX propositions.)
+
+- Surveiller votre infrastructure et vos ressources AWS en temps réel
+- Suivre les activités des utilisateurs et les demandes d'API dans l'ensemble de votre infrastructure AWS
+- Afficher les métriques et les graphiques pour surveiller les performances des ressources
+- Filtrer les journaux pour faciliter l'analyse opérationnelle et le dépannage
+- Configurer les actions et alertes automatiques en réponse aux métriques
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelles tâches pouvez-vous effectuer à l'aide d'AWS CloudTrail ? (Sélectionnez DEUX propositions.)
+
+- Surveiller votre infrastructure et vos ressources AWS en temps réel
+- Suivre les activités des utilisateurs et les demandes d'API dans l'ensemble de votre infrastructure AWS <!-- .element: style="color:#0de07d;" -->
+- Afficher les métriques et les graphiques pour surveiller les performances des ressources
+- Filtrer les journaux pour faciliter l'analyse opérationnelle et le dépannage <!-- .element: style="color:#0de07d;" -->
+- Configurer les actions et alertes automatiques en réponse aux métriques
+
+---
+
 ## AWS Trusted Advisor
 
 - service web qui inspecte votre environnement AWS et fournit des recommandations en temps réel, conformément aux bonnes pratiques AWS.
@@ -73,3 +97,69 @@ Service qui permet la gouvernance, la conformité, l'audit opérationnel et la g
 - La coche verte indique le nombre d'éléments pour lesquels aucun problème n'a été détecté.
 - Le triangle orange représente le nombre d'avertissements/recommandations
 - Le cercle rouge représente les problèmes critiques/actions recommandées.
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelles actions pouvez-vous effectuer à l'aide d'Amazon CloudWatch ? (Sélectionnez DEUX propositions.)
+
+- Surveiller l'utilisation et les performances de vos ressources
+- Recevoir des conseils en temps réel pour améliorer votre environnement AWS
+- Comparer votre infrastructure aux bonnes pratiques AWS en cinq catégories
+- Accéder aux métriques à partir d'un tableau de bord unique
+- Détecter automatiquement les activités inhabituelles du compte
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelles actions pouvez-vous effectuer à l'aide d'Amazon CloudWatch ? (Sélectionnez DEUX propositions.)
+
+- Surveiller l'utilisation et les performances de vos ressources <!-- .element: style="color:#0de07d;" -->
+- Recevoir des conseils en temps réel pour améliorer votre environnement AWS
+- Comparer votre infrastructure aux bonnes pratiques AWS en cinq catégories
+- Accéder aux métriques à partir d'un tableau de bord unique <!-- .element: style="color:#0de07d;" -->
+- Détecter automatiquement les activités inhabituelles du compte
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel service vous permet de vérifier la sécurité de vos compartiments Amazon S3 en vérifiant les autorisations d'accès libre ?
+
+- Amazon CloudWatch
+- AWS CloudTrail
+- AWS Trusted Advisor
+- Amazon GuardDuty
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel service vous permet de vérifier la sécurité de vos compartiments Amazon S3 en vérifiant les autorisations d'accès libre ?
+
+- Amazon CloudWatch
+- AWS CloudTrail
+- AWS Trusted Advisor <!-- .element: style="color:#0de07d;" -->
+- Amazon GuardDuty
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelles sont les catégories incluses dans le tableau de bord AWS Trusted Advisor ? (Sélectionnez DEUX propositions.)
+
+- Fiabilité
+- Performances
+- Capacité de mise à l'échelle
+- Élasticité
+- Tolérance aux pannes
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelles sont les catégories incluses dans le tableau de bord AWS Trusted Advisor ? (Sélectionnez DEUX propositions.)
+
+- Fiabilité
+- Performances <!-- .element: style="color:#0de07d;" -->
+- Capacité de mise à l'échelle
+- Élasticité
+- Tolérance aux pannes <!-- .element: style="color:#0de07d;" -->
+
+

@@ -1,4 +1,3 @@
-
 ## Introduction du module 3 et objectifs
 
 - Résumer les avantages de l'infrastructure mondiale AWS
@@ -56,7 +55,23 @@ Si us-west-1a échouait, votre application serait toujours en cours d'exécution
 
 ---
 
-Quiz
+<!-- .slide: data-auto-animate -->
+## Quiz: Parmi les affirmations suivantes, laquelle décrit le mieux le concept de zones de disponibilité ?
+
+- Une zone géographique qui contient des ressources AWS
+- Un centre de données unique ou un groupe de centres de données au sein d'une région
+- Centre de données utilisé par un service AWS pour effectuer des opérations spécifiques à un service.
+- Un service que vous pouvez utiliser pour exécuter l'infrastructure AWS dans votre propre centre de données sur site dans une approche hybride
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Parmi les affirmations suivantes, laquelle décrit le mieux le concept de zones de disponibilité ?
+
+- Une zone géographique qui contient des ressources AWS
+- Un centre de données unique ou un groupe de centres de données au sein d'une région <!-- .element: style="color:#0de07d;" -->
+- Centre de données utilisé par un service AWS pour effectuer des opérations spécifiques à un service.
+- Un service que vous pouvez utiliser pour exécuter l'infrastructure AWS dans votre propre centre de données sur site dans une approche hybride
 
 ---
 
@@ -66,30 +81,6 @@ Un emplacement périphérique est un site qu'Amazon CloudFront utilise afin de s
 
 ![](../images/edge-location.png)<!-- .element height="50%" width="50%" --> 
 
----
-
-## Amazon Cloudfront
-
-
-![](../images/cloudfront2.png)<!-- .element height="43%" width="43%" --> 
-
-- Un client demande des données à partir de l'application en se rendant sur le site web de l'entreprise X.
-- Amazon Route 53 utilise la résolution DNS pour identifier l'adresse IP correspondante au site web de l'entreprise X,192.0.2.0. Ces informations sont renvoyées au client. 
-- La requête du client est envoyée vers l'emplacement périphérique le plus proche via Amazon CloudFront. 
-- Amazon CloudFront se connecte à l'Application Load Balancer, qui envoie le paquet entrant à une instance Amazon EC2.
-
----
-
-## Amazon Route 53
-
-- Service de nom de domaine (DNS) évolutif et hautement disponible
-- traduit le nom du site web a une adresse IP
-- Il connecte les requêtes des utilisateurs aux infrastructures AWS telles que les instances Amazon EC2, les équilibreurs de charge, et Amazon S3.
-- Politiques de routage:
-  * Routage basée sur la latence
-  * Geolocation DNS
-  * Geoproximity routing
-  * Weighted round robin
 ---
 
 ## Amazon Outposts
@@ -142,4 +133,102 @@ AWS CloudFormation met en service vos ressources de manière sûre et reproducti
 
 ---
 
-Quiz
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation est VRAIE pour l'infrastructure globale AWS ?
+
+- Une région se compose d'une seule zone de disponibilité.
+- Une zone de disponibilité se compose de deux régions ou plus.
+- Une région se compose de trois zones de disponibilité ou plus.
+- Une zone de disponibilité se compose d'une seule région.
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation est VRAIE pour l'infrastructure globale AWS ?
+
+- Une région se compose d'une seule zone de disponibilité.
+- Une zone de disponibilité se compose de deux régions ou plus.
+- Une région se compose de trois zones de disponibilité ou plus. <!-- .element: style="color:#0de07d;" -->
+- Une zone de disponibilité se compose d'une seule région.
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quels facteurs devraient être pris en compte lors du choix d'une région ? (Sélectionnez DEUX propositions.)
+
+- Conformité en matière de gouvernance des données et exigences légales
+- Proximité avec vos clients
+- Accès à un support technique 24/7
+- Possibilité d'attribuer des autorisations personnalisées à différents utilisateurs
+- Accès à l'interface de ligne de commande AWS (AWS CLI)
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quels facteurs devraient être pris en compte lors du choix d'une région ? (Sélectionnez DEUX propositions.)
+
+- Conformité en matière de gouvernance des données et exigences légales <!-- .element: style="color:#0de07d;" -->
+- Proximité avec vos clients <!-- .element: style="color:#0de07d;" -->
+- Accès à un support technique 24/7
+- Possibilité d'attribuer des autorisations personnalisées à différents utilisateurs
+- Accès à l'interface de ligne de commande AWS (AWS CLI)
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation décrit le mieux Amazon CloudFront ?
+
+- Un service qui vous permet d'exécuter une infrastructure dans une approche cloud hybride
+- Un moteur de calcul serverless pour les conteneurs
+- Un service qui vous permet d'envoyer et de recevoir des messages entre les composants logiciels via une file d'attente
+- Un service mondial de diffusion de contenu
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle affirmation décrit le mieux Amazon CloudFront ?
+
+- Un service qui vous permet d'exécuter une infrastructure dans une approche cloud hybride
+- Un moteur de calcul serverless pour les conteneurs
+- Un service qui vous permet d'envoyer et de recevoir des messages entre les composants logiciels via une file d'attente
+- Un service mondial de diffusion de contenu <!-- .element: style="color:#0de07d;" -->
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel site Amazon CloudFront utilise-t-il pour mettre en cache des copies de contenu pour une livraison plus rapide aux utilisateurs, quel que soit leur emplacement ?
+
+- Région
+- Zone de disponibilité
+- Emplacement périphérique 
+- Origine
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quel site Amazon CloudFront utilise-t-il pour mettre en cache des copies de contenu pour une livraison plus rapide aux utilisateurs, quel que soit leur emplacement ?
+
+- Région
+- Zone de disponibilité
+- Emplacement périphérique <!-- .element: style="color:#0de07d;" -->
+- Origine
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle action pouvez-vous effectuer avec AWS Outposts ?
+
+- Automatiser des actions pour des services et applications AWS à l'aide de scripts.
+- Accéder à des assistants et à des flux de travail automatisés pour effectuer des tâches dans les services AWS.
+- Développer des applications AWS dans des langages de programmation pris en charge.
+- Étendre l'infrastructure et les services AWS à différents emplacements, y compris votre centre de données sur site.
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle action pouvez-vous effectuer avec AWS Outposts ?
+
+- Automatiser des actions pour des services et applications AWS à l'aide de scripts.
+- Accéder à des assistants et à des flux de travail automatisés pour effectuer des tâches dans les services AWS.
+- Développer des applications AWS dans des langages de programmation pris en charge.
+- Étendre l'infrastructure et les services AWS à différents emplacements, y compris votre centre de données sur site. <!-- .element: style="color:#0de07d;" -->

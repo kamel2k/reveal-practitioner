@@ -27,6 +27,26 @@ L'offre gratuite d'AWS vous permet de commencer à utiliser certains services sa
 
 ---
 
+<!-- .slide: data-auto-animate -->
+## Quiz: L'offre gratuite d'AWS inclut des offres qui sont disponibles pour les nouveaux clients AWS pendant une certaine période après leur date d'inscription à AWS. Quelle est la durée de cette période ?
+
+- 3 mois
+- 6 mois
+- 9 mois
+- 12 mois
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: L'offre gratuite d'AWS inclut des offres qui sont disponibles pour les nouveaux clients AWS pendant une certaine période après leur date d'inscription à AWS. Quelle est la durée de cette période ?
+
+- 3 mois
+- 6 mois
+- 9 mois
+- 12 mois <!-- .element: style="color:#0de07d;" -->
+
+---
+
 ## Fonctionnement de la tarification AWS
 
 - Paiement à l'utilisation

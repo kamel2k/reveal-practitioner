@@ -1,6 +1,8 @@
 
 ## Cloud computing
 
+Définition: Le cloud computing est la mise à disposition de ressources informatiques à la demande via Internet, avec un paiement à l’utilisation
+
 - Déploiement basé sur le Cloud
 - Déploiement sur site
 - Déploiement hybride

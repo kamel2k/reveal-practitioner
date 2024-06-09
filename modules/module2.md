@@ -238,6 +238,46 @@ Vous pouvez utiliser vos licences logicielles par socket, par cœur ou par machi
 
 ---
 
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle option de tarification Amazon EC2 offre une remise lorsque vous indiquez un nombre d'instances EC2 pour exécuter un système d'exploitation, une famille et taille d'instance ainsi qu'une location spécifiques dans une seule région ?
+
+- Instances réservées convertibles
+- EC2 Instance Savings Plans
+- Instances Spot
+- Standard Reserved Instance
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle option de tarification Amazon EC2 offre une remise lorsque vous indiquez un nombre d'instances EC2 pour exécuter un système d'exploitation, une famille et taille d'instance ainsi qu'une location spécifiques dans une seule région ?
+
+- Instances réservées convertibles
+- EC2 Instance Savings Plans
+- Instances Spot
+- Standard Reserved Instance <!-- .element: style="color:#0de07d;" -->
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle option de tarification Amazon EC2 offre une remise lorsque vous avez un engagement de dépense horaire envers une famille d'instance et une région sur 1 ou 3 ans ?
+
+- À la demande
+- EC2 Instance Savings Plans
+- Instances Spot
+- Instances réservées
+
+---
+
+<!-- .slide: data-auto-animate -->
+## Quiz: Quelle option de tarification Amazon EC2 offre une remise lorsque vous avez un engagement de dépense horaire envers une famille d'instance et une région sur 1 ou 3 ans ?
+
+- À la demande
+- EC2 Instance Savings Plans <!-- .element: style="color:#0de07d;" -->
+- Instances Spot
+- Instances réservées
+
+---
+
 ## Mise à l'échelle Amazon EC2
 
 - La capacité de mise à l'échelle implique de commencer uniquement avec les ressources dont vous avez besoin et de concevoir votre architecture pour répondre automatiquement à l'évolution de la demande en mettant à l'échelle. 

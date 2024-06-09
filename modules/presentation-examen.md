@@ -4,6 +4,7 @@
 | --- | --- |
 | Durée de l'examen <!-- .element: style="font-size:50%; color:#FFFFFF" --> | 90 minutes <!-- .element: style="font-size:50%; color:#FFFFFF" -->|
 | Format de l'examen <!-- .element: style="font-size:50%; color:#FFFFFF" -->| 65 questions : choix multiples ou réponses multiples <!-- .element: style="font-size:50%; color:#FFFFFF" -->|
+| Score <!-- .element: style="font-size:50%; color:#FFFFFF" -->| 700 / 1000 <!-- .element: style="font-size:50%; color:#FFFFFF" -->|
 | Coût <!-- .element: style="font-size:50%; color:#FFFFFF" -->| Voucher <!-- .element: style="font-size:50%; color:#FFFFFF" -->|
 | En ligne <!-- .element: style="font-size:50%; color:#FFFFFF" -->| Oui <!-- .element: style="font-size:50%; color:#FFFFFF" -->| 
 | Langue <!-- .element: style="font-size:50%; color:#FFFFFF" -->| Anglais <!-- .element: style="font-size:50%; color:#FFFFFF" -->| 
