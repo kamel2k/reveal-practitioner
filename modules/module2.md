@@ -307,7 +307,7 @@ Pour mettre à l'échelle plus rapidement, vous pouvez utiliser la mise à l'éc
 - capacité souhaitée à deux instances Amazon EC2, même si votre application a besoin d'au moins une seule instance Amazon EC2 pour s'exécuter.
 - capacité maximale :  mise à l'échelle ascendante en réponse à une demande accrue, mais uniquement jusqu'à un maximum de quatre instances Amazon EC2.
 
-![](./../images/ec2autoscaling.png) <!-- .element height="25%" width="25%" -->
+![](images/ec2autoscaling.png) <!-- .element height="25%" width="25%" -->
 
 ---
 
