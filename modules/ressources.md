@@ -8,7 +8,7 @@
 
 - [Amazon Cloud Quest](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner)
 
-- [Slides](aaaaaa)
+- Slides: https://kamel2k.github.io/reveal-practitioner/
 
 - [Résumé](https://explore.skillbuilder.aws/learn/course/external/view/elearning/18558/Cours-de-pr%C3%A9paration-aux-examens-standard%C2%A0%3A-AWS-Certified-Cloud-Practitioner-CLF-C02-Fran%C3%A7ais-%7C-Exam-Prep-Standard-Course%3A-AWS-Certified-Cloud-Practitioner-CLF-C02-French-)
 - Quiz
